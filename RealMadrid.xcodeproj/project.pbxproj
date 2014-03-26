@@ -1,0 +1,480 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		680F163D18E32AB1005F3939 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 680F163C18E32AB1005F3939 /* Foundation.framework */; };
+		680F163F18E32AB1005F3939 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 680F163E18E32AB1005F3939 /* CoreGraphics.framework */; };
+		680F164118E32AB1005F3939 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 680F164018E32AB1005F3939 /* UIKit.framework */; };
+		680F164718E32AB1005F3939 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 680F164518E32AB1005F3939 /* InfoPlist.strings */; };
+		680F164918E32AB1005F3939 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 680F164818E32AB1005F3939 /* main.m */; };
+		680F164D18E32AB1005F3939 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 680F164C18E32AB1005F3939 /* AppDelegate.m */; };
+		680F164F18E32AB1005F3939 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 680F164E18E32AB1005F3939 /* Images.xcassets */; };
+		680F165618E32AB1005F3939 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 680F165518E32AB1005F3939 /* XCTest.framework */; };
+		680F165718E32AB1005F3939 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 680F163C18E32AB1005F3939 /* Foundation.framework */; };
+		680F165818E32AB1005F3939 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 680F164018E32AB1005F3939 /* UIKit.framework */; };
+		680F166018E32AB1005F3939 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 680F165E18E32AB1005F3939 /* InfoPlist.strings */; };
+		680F166218E32AB1005F3939 /* RealMadridTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 680F166118E32AB1005F3939 /* RealMadridTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		680F165918E32AB1005F3939 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 680F163118E32AB1005F3939 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 680F163818E32AB1005F3939;
+			remoteInfo = RealMadrid;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		680F163918E32AB1005F3939 /* RealMadrid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RealMadrid.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		680F163C18E32AB1005F3939 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		680F163E18E32AB1005F3939 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		680F164018E32AB1005F3939 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		680F164418E32AB1005F3939 /* RealMadrid-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RealMadrid-Info.plist"; sourceTree = "<group>"; };
+		680F164618E32AB1005F3939 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		680F164818E32AB1005F3939 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		680F164A18E32AB1005F3939 /* RealMadrid-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RealMadrid-Prefix.pch"; sourceTree = "<group>"; };
+		680F164B18E32AB1005F3939 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		680F164C18E32AB1005F3939 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		680F164E18E32AB1005F3939 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		680F165418E32AB1005F3939 /* RealMadridTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RealMadridTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		680F165518E32AB1005F3939 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		680F165D18E32AB1005F3939 /* RealMadridTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RealMadridTests-Info.plist"; sourceTree = "<group>"; };
+		680F165F18E32AB1005F3939 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		680F166118E32AB1005F3939 /* RealMadridTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RealMadridTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		680F163618E32AB1005F3939 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				680F163F18E32AB1005F3939 /* CoreGraphics.framework in Frameworks */,
+				680F164118E32AB1005F3939 /* UIKit.framework in Frameworks */,
+				680F163D18E32AB1005F3939 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		680F165118E32AB1005F3939 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				680F165618E32AB1005F3939 /* XCTest.framework in Frameworks */,
+				680F165818E32AB1005F3939 /* UIKit.framework in Frameworks */,
+				680F165718E32AB1005F3939 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		680F163018E32AB1005F3939 = {
+			isa = PBXGroup;
+			children = (
+				680F164218E32AB1005F3939 /* RealMadrid */,
+				680F165B18E32AB1005F3939 /* RealMadridTests */,
+				680F163B18E32AB1005F3939 /* Frameworks */,
+				680F163A18E32AB1005F3939 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		680F163A18E32AB1005F3939 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				680F163918E32AB1005F3939 /* RealMadrid.app */,
+				680F165418E32AB1005F3939 /* RealMadridTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		680F163B18E32AB1005F3939 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				680F163C18E32AB1005F3939 /* Foundation.framework */,
+				680F163E18E32AB1005F3939 /* CoreGraphics.framework */,
+				680F164018E32AB1005F3939 /* UIKit.framework */,
+				680F165518E32AB1005F3939 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		680F164218E32AB1005F3939 /* RealMadrid */ = {
+			isa = PBXGroup;
+			children = (
+				680F166D18E32ADC005F3939 /* Match */,
+				680F166C18E32ACB005F3939 /* Info */,
+				680F166B18E32AC2005F3939 /* News */,
+				680F164B18E32AB1005F3939 /* AppDelegate.h */,
+				680F164C18E32AB1005F3939 /* AppDelegate.m */,
+				680F164E18E32AB1005F3939 /* Images.xcassets */,
+				680F164318E32AB1005F3939 /* Supporting Files */,
+			);
+			path = RealMadrid;
+			sourceTree = "<group>";
+		};
+		680F164318E32AB1005F3939 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				680F164418E32AB1005F3939 /* RealMadrid-Info.plist */,
+				680F164518E32AB1005F3939 /* InfoPlist.strings */,
+				680F164818E32AB1005F3939 /* main.m */,
+				680F164A18E32AB1005F3939 /* RealMadrid-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		680F165B18E32AB1005F3939 /* RealMadridTests */ = {
+			isa = PBXGroup;
+			children = (
+				680F166118E32AB1005F3939 /* RealMadridTests.m */,
+				680F165C18E32AB1005F3939 /* Supporting Files */,
+			);
+			path = RealMadridTests;
+			sourceTree = "<group>";
+		};
+		680F165C18E32AB1005F3939 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				680F165D18E32AB1005F3939 /* RealMadridTests-Info.plist */,
+				680F165E18E32AB1005F3939 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		680F166B18E32AC2005F3939 /* News */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = News;
+			sourceTree = "<group>";
+		};
+		680F166C18E32ACB005F3939 /* Info */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Info;
+			sourceTree = "<group>";
+		};
+		680F166D18E32ADC005F3939 /* Match */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Match;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		680F163818E32AB1005F3939 /* RealMadrid */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 680F166518E32AB1005F3939 /* Build configuration list for PBXNativeTarget "RealMadrid" */;
+			buildPhases = (
+				680F163518E32AB1005F3939 /* Sources */,
+				680F163618E32AB1005F3939 /* Frameworks */,
+				680F163718E32AB1005F3939 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RealMadrid;
+			productName = RealMadrid;
+			productReference = 680F163918E32AB1005F3939 /* RealMadrid.app */;
+			productType = "com.apple.product-type.application";
+		};
+		680F165318E32AB1005F3939 /* RealMadridTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 680F166818E32AB1005F3939 /* Build configuration list for PBXNativeTarget "RealMadridTests" */;
+			buildPhases = (
+				680F165018E32AB1005F3939 /* Sources */,
+				680F165118E32AB1005F3939 /* Frameworks */,
+				680F165218E32AB1005F3939 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				680F165A18E32AB1005F3939 /* PBXTargetDependency */,
+			);
+			name = RealMadridTests;
+			productName = RealMadridTests;
+			productReference = 680F165418E32AB1005F3939 /* RealMadridTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		680F163118E32AB1005F3939 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = "Nguyễn Duy Phúc";
+				TargetAttributes = {
+					680F165318E32AB1005F3939 = {
+						TestTargetID = 680F163818E32AB1005F3939;
+					};
+				};
+			};
+			buildConfigurationList = 680F163418E32AB1005F3939 /* Build configuration list for PBXProject "RealMadrid" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 680F163018E32AB1005F3939;
+			productRefGroup = 680F163A18E32AB1005F3939 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				680F163818E32AB1005F3939 /* RealMadrid */,
+				680F165318E32AB1005F3939 /* RealMadridTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		680F163718E32AB1005F3939 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				680F164718E32AB1005F3939 /* InfoPlist.strings in Resources */,
+				680F164F18E32AB1005F3939 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		680F165218E32AB1005F3939 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				680F166018E32AB1005F3939 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		680F163518E32AB1005F3939 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				680F164D18E32AB1005F3939 /* AppDelegate.m in Sources */,
+				680F164918E32AB1005F3939 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		680F165018E32AB1005F3939 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				680F166218E32AB1005F3939 /* RealMadridTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		680F165A18E32AB1005F3939 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 680F163818E32AB1005F3939 /* RealMadrid */;
+			targetProxy = 680F165918E32AB1005F3939 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		680F164518E32AB1005F3939 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				680F164618E32AB1005F3939 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		680F165E18E32AB1005F3939 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				680F165F18E32AB1005F3939 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		680F166318E32AB1005F3939 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		680F166418E32AB1005F3939 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		680F166618E32AB1005F3939 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RealMadrid/RealMadrid-Prefix.pch";
+				INFOPLIST_FILE = "RealMadrid/RealMadrid-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		680F166718E32AB1005F3939 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RealMadrid/RealMadrid-Prefix.pch";
+				INFOPLIST_FILE = "RealMadrid/RealMadrid-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		680F166918E32AB1005F3939 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/RealMadrid.app/RealMadrid";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RealMadrid/RealMadrid-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "RealMadridTests/RealMadridTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		680F166A18E32AB1005F3939 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/RealMadrid.app/RealMadrid";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RealMadrid/RealMadrid-Prefix.pch";
+				INFOPLIST_FILE = "RealMadridTests/RealMadridTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		680F163418E32AB1005F3939 /* Build configuration list for PBXProject "RealMadrid" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				680F166318E32AB1005F3939 /* Debug */,
+				680F166418E32AB1005F3939 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		680F166518E32AB1005F3939 /* Build configuration list for PBXNativeTarget "RealMadrid" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				680F166618E32AB1005F3939 /* Debug */,
+				680F166718E32AB1005F3939 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		680F166818E32AB1005F3939 /* Build configuration list for PBXNativeTarget "RealMadridTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				680F166918E32AB1005F3939 /* Debug */,
+				680F166A18E32AB1005F3939 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 680F163118E32AB1005F3939 /* Project object */;
+}
