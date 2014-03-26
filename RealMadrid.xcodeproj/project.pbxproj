@@ -19,6 +19,14 @@
 		680F165818E32AB1005F3939 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 680F164018E32AB1005F3939 /* UIKit.framework */; };
 		680F166018E32AB1005F3939 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 680F165E18E32AB1005F3939 /* InfoPlist.strings */; };
 		680F166218E32AB1005F3939 /* RealMadridTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 680F166118E32AB1005F3939 /* RealMadridTests.m */; };
+		680F167118E32E8D005F3939 /* NewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 680F166F18E32E8D005F3939 /* NewsViewController.m */; };
+		680F167218E32E8D005F3939 /* NewsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 680F167018E32E8D005F3939 /* NewsViewController.xib */; };
+		680F167618E32EA6005F3939 /* NewsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 680F167418E32EA6005F3939 /* NewsDetailViewController.m */; };
+		680F167718E32EA6005F3939 /* NewsDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 680F167518E32EA6005F3939 /* NewsDetailViewController.xib */; };
+		680F167B18E32F20005F3939 /* InfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 680F167918E32F20005F3939 /* InfoViewController.m */; };
+		680F167C18E32F20005F3939 /* InfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 680F167A18E32F20005F3939 /* InfoViewController.xib */; };
+		680F168018E32F4C005F3939 /* MatchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 680F167E18E32F4C005F3939 /* MatchViewController.m */; };
+		680F168118E32F4C005F3939 /* MatchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 680F167F18E32F4C005F3939 /* MatchViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +56,18 @@
 		680F165D18E32AB1005F3939 /* RealMadridTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RealMadridTests-Info.plist"; sourceTree = "<group>"; };
 		680F165F18E32AB1005F3939 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		680F166118E32AB1005F3939 /* RealMadridTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RealMadridTests.m; sourceTree = "<group>"; };
+		680F166E18E32E8D005F3939 /* NewsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsViewController.h; sourceTree = "<group>"; };
+		680F166F18E32E8D005F3939 /* NewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsViewController.m; sourceTree = "<group>"; };
+		680F167018E32E8D005F3939 /* NewsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewsViewController.xib; sourceTree = "<group>"; };
+		680F167318E32EA6005F3939 /* NewsDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsDetailViewController.h; sourceTree = "<group>"; };
+		680F167418E32EA6005F3939 /* NewsDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsDetailViewController.m; sourceTree = "<group>"; };
+		680F167518E32EA6005F3939 /* NewsDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewsDetailViewController.xib; sourceTree = "<group>"; };
+		680F167818E32F20005F3939 /* InfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoViewController.h; sourceTree = "<group>"; };
+		680F167918E32F20005F3939 /* InfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoViewController.m; sourceTree = "<group>"; };
+		680F167A18E32F20005F3939 /* InfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoViewController.xib; sourceTree = "<group>"; };
+		680F167D18E32F4C005F3939 /* MatchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatchViewController.h; sourceTree = "<group>"; };
+		680F167E18E32F4C005F3939 /* MatchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MatchViewController.m; sourceTree = "<group>"; };
+		680F167F18E32F4C005F3939 /* MatchViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MatchViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +170,12 @@
 		680F166B18E32AC2005F3939 /* News */ = {
 			isa = PBXGroup;
 			children = (
+				680F166E18E32E8D005F3939 /* NewsViewController.h */,
+				680F166F18E32E8D005F3939 /* NewsViewController.m */,
+				680F167018E32E8D005F3939 /* NewsViewController.xib */,
+				680F167318E32EA6005F3939 /* NewsDetailViewController.h */,
+				680F167418E32EA6005F3939 /* NewsDetailViewController.m */,
+				680F167518E32EA6005F3939 /* NewsDetailViewController.xib */,
 			);
 			name = News;
 			sourceTree = "<group>";
@@ -157,6 +183,9 @@
 		680F166C18E32ACB005F3939 /* Info */ = {
 			isa = PBXGroup;
 			children = (
+				680F167818E32F20005F3939 /* InfoViewController.h */,
+				680F167918E32F20005F3939 /* InfoViewController.m */,
+				680F167A18E32F20005F3939 /* InfoViewController.xib */,
 			);
 			name = Info;
 			sourceTree = "<group>";
@@ -164,6 +193,9 @@
 		680F166D18E32ADC005F3939 /* Match */ = {
 			isa = PBXGroup;
 			children = (
+				680F167D18E32F4C005F3939 /* MatchViewController.h */,
+				680F167E18E32F4C005F3939 /* MatchViewController.m */,
+				680F167F18E32F4C005F3939 /* MatchViewController.xib */,
 			);
 			name = Match;
 			sourceTree = "<group>";
@@ -243,8 +275,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				680F167718E32EA6005F3939 /* NewsDetailViewController.xib in Resources */,
 				680F164718E32AB1005F3939 /* InfoPlist.strings in Resources */,
+				680F168118E32F4C005F3939 /* MatchViewController.xib in Resources */,
 				680F164F18E32AB1005F3939 /* Images.xcassets in Resources */,
+				680F167C18E32F20005F3939 /* InfoViewController.xib in Resources */,
+				680F167218E32E8D005F3939 /* NewsViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,7 +299,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				680F167618E32EA6005F3939 /* NewsDetailViewController.m in Sources */,
+				680F167118E32E8D005F3939 /* NewsViewController.m in Sources */,
+				680F168018E32F4C005F3939 /* MatchViewController.m in Sources */,
 				680F164D18E32AB1005F3939 /* AppDelegate.m in Sources */,
+				680F167B18E32F20005F3939 /* InfoViewController.m in Sources */,
 				680F164918E32AB1005F3939 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

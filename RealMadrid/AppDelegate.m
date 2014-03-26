@@ -7,14 +7,31 @@
 //
 
 #import "AppDelegate.h"
+#import "MatchViewController.h"
+#import "InfoViewController.h"
+#import "NewsViewController.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
+    
+    MatchViewController *mathVC = [[MatchViewController alloc] initWithNibName:@"MatchViewController" bundle:Nil];
+    mathVC.tabBarItem = [[UITabBarItem alloc] initWithTitle:@"Match" image:[UIImage imageNamed:@"match"] selectedImage:Nil];
+
+    InfoViewController *infoVC = [[InfoViewController alloc] initWithNibName:@"InfoViewController" bundle:nil];
+    infoVC.tabBarItem = [[UITabBarItem alloc] initWithTitle:@"Info" image:[UIImage imageNamed:@"info"] selectedImage:Nil];
+    infoVC.tabBarItem.badgeValue = @"3";
+    
+    NewsViewController *newsVC = [[NewsViewController alloc] initWithNibName:@"NewsViewController" bundle:nil];
+    newsVC.tabBarItem = [[UITabBarItem alloc] initWithTitle:@"News" image:[UIImage imageNamed:@"news"] selectedImage:Nil];
+    
+    UITabBarController *tabBar = [[UITabBarController alloc] init];
+    tabBar.viewControllers = @[mathVC, newsVC, infoVC];
+    tabBar.selectedIndex = 1;
+    
+    self.window.rootViewController = tabBar;
     [self.window makeKeyAndVisible];
     return YES;
 }
