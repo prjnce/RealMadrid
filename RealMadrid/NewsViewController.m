@@ -7,9 +7,12 @@
 //
 
 #import "NewsViewController.h"
-
+#import "NewsDetailViewController.h"
+#import "AppDelegate.h"
 @interface NewsViewController ()
-
+{
+    NewsDetailViewController *_newsDetailVC;
+}
 @end
 
 @implementation NewsViewController
@@ -26,7 +29,11 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-
+    
+//    self.title = @"News";
+    
+    _listNews = @[@"76-77: Real Madrid get a dramatic win in Tel Aviv after a heart attack-inducing finish", @"Isco: \"We are Real Madrid and are obliged to pick ourselves up\"", @"Real Madrid has scored more free kicks than any other team in the league", @"Ancelotti: \"We need to respond with everyone's character and personality\"", @"Castilla is the highest scoring team in the league in 2014"];
+    
     // Uncomment the following line to preserve selection between presentations.
     // self.clearsSelectionOnViewWillAppear = NO;
  
@@ -45,13 +52,13 @@
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
     // Return the number of sections.
-    return 0;
+    return 1;
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
     // Return the number of rows in the section.
-    return 0;
+    return [_listNews count];
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
@@ -60,11 +67,26 @@
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
     if (cell == nil) {
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier];
+        cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
     }
     
-    // Configure the cell...
+    cell.textLabel.text = _listNews[indexPath.row];
     
+    // Configure the cell...
+
     return cell;
+}
+
+
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    // Navigation logic may go here, for example:
+    // Create the next view controller.
+    if (!_newsDetailVC) {
+        _newsDetailVC = [[NewsDetailViewController alloc] initWithNibName:@"NewsDetailViewController" bundle:nil];
+    }
+    _newsDetailVC.news = _listNews[indexPath.row];
+    [self.navigationController pushViewController:_newsDetailVC animated:YES];
 }
 
 /*
@@ -106,22 +128,5 @@
 }
 */
 
-/*
-#pragma mark - Table view delegate
-
-// In a xib-based application, navigation from a table can be handled in -tableView:didSelectRowAtIndexPath:
-- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
-{
-    // Navigation logic may go here, for example:
-    // Create the next view controller.
-    <#DetailViewController#> *detailViewController = [[<#DetailViewController#> alloc] initWithNibName:@"<#Nib name#>" bundle:nil];
-
-    // Pass the selected object to the new view controller.
-    
-    // Push the view controller.
-    [self.navigationController pushViewController:detailViewController animated:YES];
-}
- 
- */
 
 @end

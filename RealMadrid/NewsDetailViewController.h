@@ -10,4 +10,6 @@
 
 @interface NewsDetailViewController : UIViewController
 
+@property (nonatomic, weak) NSString *news;
+
 @end

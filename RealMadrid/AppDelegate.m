@@ -22,15 +22,18 @@
 
     InfoViewController *infoVC = [[InfoViewController alloc] initWithNibName:@"InfoViewController" bundle:nil];
     infoVC.tabBarItem = [[UITabBarItem alloc] initWithTitle:@"Info" image:[UIImage imageNamed:@"info"] selectedImage:Nil];
-    infoVC.tabBarItem.badgeValue = @"3";
     
     NewsViewController *newsVC = [[NewsViewController alloc] initWithNibName:@"NewsViewController" bundle:nil];
-    newsVC.tabBarItem = [[UITabBarItem alloc] initWithTitle:@"News" image:[UIImage imageNamed:@"news"] selectedImage:Nil];
+    
+    UINavigationController *navVC = [[UINavigationController alloc] initWithRootViewController:newsVC];
+
+    navVC.tabBarItem = [[UITabBarItem alloc] initWithTitle:@"News" image:[UIImage imageNamed:@"news"] selectedImage:Nil];
+    navVC.tabBarItem.badgeValue = @"5";
     
     UITabBarController *tabBar = [[UITabBarController alloc] init];
-    tabBar.viewControllers = @[mathVC, newsVC, infoVC];
+    tabBar.viewControllers = @[mathVC, navVC, infoVC];
     tabBar.selectedIndex = 1;
-    
+
     self.window.rootViewController = tabBar;
     [self.window makeKeyAndVisible];
     return YES;
