@@ -30,7 +30,7 @@
 {
     [super viewDidLoad];
     
-//    self.title = @"News";
+    self.title = @"News";
     
     _listNews = @[@"76-77: Real Madrid get a dramatic win in Tel Aviv after a heart attack-inducing finish", @"Isco: \"We are Real Madrid and are obliged to pick ourselves up\"", @"Real Madrid has scored more free kicks than any other team in the league", @"Ancelotti: \"We need to respond with everyone's character and personality\"", @"Castilla is the highest scoring team in the league in 2014"];
     

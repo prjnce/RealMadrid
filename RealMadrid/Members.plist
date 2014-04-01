@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Kaka</string>
+		<integer>9000000</integer>
+		<string>1.png</string>
+	</array>
+	<array>
+		<string>Ronando</string>
+		<integer>10000000</integer>
+		<string>avatar.jpg</string>
+	</array>
+</array>
+</plist>

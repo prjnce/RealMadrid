@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface InfoViewController : UIViewController
+@interface InfoViewController : UIViewController <UITableViewDelegate, UITableViewDataSource>
+
+@property (retain, nonatomic) NSMutableArray *listPlayer;
+
+@property (weak, nonatomic) IBOutlet UITableView *tableView;
 
 @end

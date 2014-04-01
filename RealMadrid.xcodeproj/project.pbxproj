@@ -27,6 +27,11 @@
 		680F167C18E32F20005F3939 /* InfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 680F167A18E32F20005F3939 /* InfoViewController.xib */; };
 		680F168018E32F4C005F3939 /* MatchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 680F167E18E32F4C005F3939 /* MatchViewController.m */; };
 		680F168118E32F4C005F3939 /* MatchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 680F167F18E32F4C005F3939 /* MatchViewController.xib */; };
+		682A852718EA927900C1CA0B /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 682A852618EA927900C1CA0B /* 1.png */; };
+		682A852B18EACC2300C1CA0B /* InfoTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 682A852918EACC2300C1CA0B /* InfoTableCell.m */; };
+		682A852C18EACC2300C1CA0B /* InfoTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 682A852A18EACC2300C1CA0B /* InfoTableCell.xib */; };
+		682A853618EAD2F800C1CA0B /* UtilsObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 682A853518EAD2F800C1CA0B /* UtilsObject.m */; };
+		682A853818EAD42D00C1CA0B /* Members.plist in Resources */ = {isa = PBXBuildFile; fileRef = 682A853718EAD42D00C1CA0B /* Members.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +73,13 @@
 		680F167D18E32F4C005F3939 /* MatchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatchViewController.h; sourceTree = "<group>"; };
 		680F167E18E32F4C005F3939 /* MatchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MatchViewController.m; sourceTree = "<group>"; };
 		680F167F18E32F4C005F3939 /* MatchViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MatchViewController.xib; sourceTree = "<group>"; };
+		682A852618EA927900C1CA0B /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = ../../Resource/1.png; sourceTree = "<group>"; };
+		682A852818EACC2300C1CA0B /* InfoTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoTableCell.h; sourceTree = "<group>"; };
+		682A852918EACC2300C1CA0B /* InfoTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoTableCell.m; sourceTree = "<group>"; };
+		682A852A18EACC2300C1CA0B /* InfoTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoTableCell.xib; sourceTree = "<group>"; };
+		682A853418EAD2F800C1CA0B /* UtilsObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UtilsObject.h; sourceTree = "<group>"; };
+		682A853518EAD2F800C1CA0B /* UtilsObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UtilsObject.m; sourceTree = "<group>"; };
+		682A853718EAD42D00C1CA0B /* Members.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Members.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,7 +145,9 @@
 				680F164B18E32AB1005F3939 /* AppDelegate.h */,
 				680F164C18E32AB1005F3939 /* AppDelegate.m */,
 				680F164E18E32AB1005F3939 /* Images.xcassets */,
+				682A852518EA8FEE00C1CA0B /* Resources */,
 				680F164318E32AB1005F3939 /* Supporting Files */,
+				682A853018EACFE200C1CA0B /* Objects */,
 			);
 			path = RealMadrid;
 			sourceTree = "<group>";
@@ -183,9 +197,13 @@
 		680F166C18E32ACB005F3939 /* Info */ = {
 			isa = PBXGroup;
 			children = (
+				682A853718EAD42D00C1CA0B /* Members.plist */,
 				680F167818E32F20005F3939 /* InfoViewController.h */,
 				680F167918E32F20005F3939 /* InfoViewController.m */,
 				680F167A18E32F20005F3939 /* InfoViewController.xib */,
+				682A852818EACC2300C1CA0B /* InfoTableCell.h */,
+				682A852918EACC2300C1CA0B /* InfoTableCell.m */,
+				682A852A18EACC2300C1CA0B /* InfoTableCell.xib */,
 			);
 			name = Info;
 			sourceTree = "<group>";
@@ -198,6 +216,23 @@
 				680F167F18E32F4C005F3939 /* MatchViewController.xib */,
 			);
 			name = Match;
+			sourceTree = "<group>";
+		};
+		682A852518EA8FEE00C1CA0B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				682A852618EA927900C1CA0B /* 1.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		682A853018EACFE200C1CA0B /* Objects */ = {
+			isa = PBXGroup;
+			children = (
+				682A853418EAD2F800C1CA0B /* UtilsObject.h */,
+				682A853518EAD2F800C1CA0B /* UtilsObject.m */,
+			);
+			name = Objects;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -275,12 +310,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				682A853818EAD42D00C1CA0B /* Members.plist in Resources */,
 				680F167718E32EA6005F3939 /* NewsDetailViewController.xib in Resources */,
 				680F164718E32AB1005F3939 /* InfoPlist.strings in Resources */,
 				680F168118E32F4C005F3939 /* MatchViewController.xib in Resources */,
 				680F164F18E32AB1005F3939 /* Images.xcassets in Resources */,
 				680F167C18E32F20005F3939 /* InfoViewController.xib in Resources */,
 				680F167218E32E8D005F3939 /* NewsViewController.xib in Resources */,
+				682A852C18EACC2300C1CA0B /* InfoTableCell.xib in Resources */,
+				682A852718EA927900C1CA0B /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,10 +337,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				682A852B18EACC2300C1CA0B /* InfoTableCell.m in Sources */,
 				680F167618E32EA6005F3939 /* NewsDetailViewController.m in Sources */,
 				680F167118E32E8D005F3939 /* NewsViewController.m in Sources */,
 				680F168018E32F4C005F3939 /* MatchViewController.m in Sources */,
 				680F164D18E32AB1005F3939 /* AppDelegate.m in Sources */,
+				682A853618EAD2F800C1CA0B /* UtilsObject.m in Sources */,
 				680F167B18E32F20005F3939 /* InfoViewController.m in Sources */,
 				680F164918E32AB1005F3939 /* main.m in Sources */,
 			);
