@@ -12,6 +12,6 @@
 
 @property (weak, nonatomic) IBOutlet UIImageView *playerImg;
 @property (weak, nonatomic) IBOutlet UILabel *playerName;
-@property (weak, nonatomic) IBOutlet UILabel *playerSalary;
+@property (weak, nonatomic) IBOutlet UILabel *playerPosition;
 
 @end

@@ -31,14 +31,23 @@
     [super viewDidLoad];
     
     self.title = @"News";
+    [self buildData];
     
-    _listNews = @[@"76-77: Real Madrid get a dramatic win in Tel Aviv after a heart attack-inducing finish", @"Isco: \"We are Real Madrid and are obliged to pick ourselves up\"", @"Real Madrid has scored more free kicks than any other team in the league", @"Ancelotti: \"We need to respond with everyone's character and personality\"", @"Castilla is the highest scoring team in the league in 2014"];
+    [[[[[self tabBarController] tabBar] items] objectAtIndex:1] setBadgeValue:[NSString stringWithFormat:@"%d",[_listNews count]]];
     
     // Uncomment the following line to preserve selection between presentations.
     // self.clearsSelectionOnViewWillAppear = NO;
  
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
+}
+
+- (void) buildData
+{
+    NSString* filePath = [[NSBundle mainBundle] pathForResource:@"News" ofType:@"plist"];
+    NSArray* array = [NSArray arrayWithContentsOfFile:filePath];
+    _listNews = [NSMutableArray arrayWithArray:array];
+    
 }
 
 - (void)didReceiveMemoryWarning
@@ -70,8 +79,8 @@
         cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
     }
     
-    cell.textLabel.text = _listNews[indexPath.row];
-    
+    NSDictionary *dic = _listNews[indexPath.row];
+    cell.textLabel.text = [dic objectForKey:@"title"];
     // Configure the cell...
 
     return cell;
@@ -85,7 +94,9 @@
     if (!_newsDetailVC) {
         _newsDetailVC = [[NewsDetailViewController alloc] initWithNibName:@"NewsDetailViewController" bundle:nil];
     }
-    _newsDetailVC.news = _listNews[indexPath.row];
+    NSDictionary *dic = _listNews[indexPath.row];
+    _newsDetailVC.news = [dic objectForKey:@"title"];
+    _newsDetailVC.content = [dic objectForKey:@"content"];
     [self.navigationController pushViewController:_newsDetailVC animated:YES];
 }
 

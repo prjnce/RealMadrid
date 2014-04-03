@@ -27,11 +27,70 @@
 		680F167C18E32F20005F3939 /* InfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 680F167A18E32F20005F3939 /* InfoViewController.xib */; };
 		680F168018E32F4C005F3939 /* MatchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 680F167E18E32F4C005F3939 /* MatchViewController.m */; };
 		680F168118E32F4C005F3939 /* MatchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 680F167F18E32F4C005F3939 /* MatchViewController.xib */; };
-		682A852718EA927900C1CA0B /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 682A852618EA927900C1CA0B /* 1.png */; };
 		682A852B18EACC2300C1CA0B /* InfoTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 682A852918EACC2300C1CA0B /* InfoTableCell.m */; };
 		682A852C18EACC2300C1CA0B /* InfoTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 682A852A18EACC2300C1CA0B /* InfoTableCell.xib */; };
 		682A853618EAD2F800C1CA0B /* UtilsObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 682A853518EAD2F800C1CA0B /* UtilsObject.m */; };
 		682A853818EAD42D00C1CA0B /* Members.plist in Resources */ = {isa = PBXBuildFile; fileRef = 682A853718EAD42D00C1CA0B /* Members.plist */; };
+		684601E918ED5EE000D37702 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601B018ED5EE000D37702 /* 1.png */; };
+		684601EA18ED5EE000D37702 /* Alonso.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601B118ED5EE000D37702 /* Alonso.jpg */; };
+		684601EB18ED5EE000D37702 /* Alonso@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601B218ED5EE000D37702 /* Alonso@2x.png */; };
+		684601EC18ED5EE000D37702 /* Arbeloa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601B318ED5EE000D37702 /* Arbeloa.jpg */; };
+		684601ED18ED5EE000D37702 /* Arbeloa@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601B418ED5EE000D37702 /* Arbeloa@2x.png */; };
+		684601EE18ED5EE000D37702 /* Bale.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601B518ED5EE000D37702 /* Bale.jpg */; };
+		684601EF18ED5EE000D37702 /* Bale@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601B618ED5EE000D37702 /* Bale@2x.png */; };
+		684601F018ED5EE000D37702 /* Benzema.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601B718ED5EE000D37702 /* Benzema.jpg */; };
+		684601F118ED5EE000D37702 /* Benzema@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601B818ED5EE000D37702 /* Benzema@2x.png */; };
+		684601F218ED5EE000D37702 /* CarloAcelotti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601B918ED5EE000D37702 /* CarloAcelotti.jpg */; };
+		684601F318ED5EE000D37702 /* CarloAcelotti@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601BA18ED5EE000D37702 /* CarloAcelotti@2x.png */; };
+		684601F418ED5EE000D37702 /* Carvajal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601BB18ED5EE000D37702 /* Carvajal.jpg */; };
+		684601F518ED5EE000D37702 /* Carvajal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601BC18ED5EE000D37702 /* Carvajal@2x.png */; };
+		684601F618ED5EE000D37702 /* Casemiro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601BD18ED5EE000D37702 /* Casemiro.jpg */; };
+		684601F718ED5EE000D37702 /* Casemiro@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601BE18ED5EE000D37702 /* Casemiro@2x.png */; };
+		684601F818ED5EE000D37702 /* Casillas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601BF18ED5EE000D37702 /* Casillas.jpg */; };
+		684601F918ED5EE000D37702 /* Casillas@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601C018ED5EE000D37702 /* Casillas@2x.png */; };
+		684601FA18ED5EE000D37702 /* Coentrao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601C118ED5EE000D37702 /* Coentrao.jpg */; };
+		684601FB18ED5EE000D37702 /* Coentrao@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601C218ED5EE000D37702 /* Coentrao@2x.png */; };
+		684601FC18ED5EE000D37702 /* DiegoLopez.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601C318ED5EE000D37702 /* DiegoLopez.jpg */; };
+		684601FD18ED5EE000D37702 /* DiegoLopez@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601C418ED5EE000D37702 /* DiegoLopez@2x.png */; };
+		684601FE18ED5EE000D37702 /* DiMaria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601C518ED5EE000D37702 /* DiMaria.jpg */; };
+		684601FF18ED5EE000D37702 /* DiMaria@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601C618ED5EE000D37702 /* DiMaria@2x.png */; };
+		6846020018ED5EE000D37702 /* GiovanniMauri.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601C718ED5EE000D37702 /* GiovanniMauri.jpg */; };
+		6846020218ED5EE000D37702 /* Illarra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601C918ED5EE000D37702 /* Illarra.jpg */; };
+		6846020318ED5EE000D37702 /* Illarra@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601CA18ED5EE000D37702 /* Illarra@2x.png */; };
+		6846020418ED5EE000D37702 /* Isco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601CB18ED5EE000D37702 /* Isco.jpg */; };
+		6846020518ED5EE000D37702 /* Isco@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601CC18ED5EE000D37702 /* Isco@2x.png */; };
+		6846020618ED5EE000D37702 /* Jese.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601CD18ED5EE000D37702 /* Jese.jpg */; };
+		6846020718ED5EE000D37702 /* Jese@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601CE18ED5EE000D37702 /* Jese@2x.png */; };
+		6846020818ED5EE000D37702 /* Jesusfdez.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601CF18ED5EE000D37702 /* Jesusfdez.jpg */; };
+		6846020918ED5EE000D37702 /* Jesusfdez@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601D018ED5EE000D37702 /* Jesusfdez@2x.png */; };
+		6846020A18ED5EE000D37702 /* Khedira.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601D118ED5EE000D37702 /* Khedira.jpg */; };
+		6846020B18ED5EE000D37702 /* Khedira@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601D218ED5EE000D37702 /* Khedira@2x.png */; };
+		6846020C18ED5EE000D37702 /* Marcelo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601D318ED5EE000D37702 /* Marcelo.jpg */; };
+		6846020D18ED5EE000D37702 /* Marcelo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601D418ED5EE000D37702 /* Marcelo@2x.png */; };
+		6846020E18ED5EE000D37702 /* Modric.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601D518ED5EE000D37702 /* Modric.jpg */; };
+		6846020F18ED5EE000D37702 /* Modric@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601D618ED5EE000D37702 /* Modric@2x.png */; };
+		6846021018ED5EE000D37702 /* Morata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601D718ED5EE000D37702 /* Morata.jpg */; };
+		6846021118ED5EE000D37702 /* Morata@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601D818ED5EE000D37702 /* Morata@2x.png */; };
+		6846021218ED5EE000D37702 /* Nacho.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601D918ED5EE000D37702 /* Nacho.jpg */; };
+		6846021318ED5EE000D37702 /* Nacho@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601DA18ED5EE000D37702 /* Nacho@2x.png */; };
+		6846021418ED5EE000D37702 /* PaulClement.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601DB18ED5EE000D37702 /* PaulClement.jpg */; };
+		6846021518ED5EE000D37702 /* PaulClement@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601DC18ED5EE000D37702 /* PaulClement@2x.png */; };
+		6846021618ED5EE000D37702 /* Pepe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601DD18ED5EE000D37702 /* Pepe.jpg */; };
+		6846021718ED5EE000D37702 /* Pepe@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601DE18ED5EE000D37702 /* Pepe@2x.png */; };
+		6846021818ED5EE000D37702 /* Ronaldo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601DF18ED5EE000D37702 /* Ronaldo.jpg */; };
+		6846021918ED5EE000D37702 /* Ronaldo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601E018ED5EE000D37702 /* Ronaldo@2x.png */; };
+		6846021A18ED5EE000D37702 /* SergioRamos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601E118ED5EE000D37702 /* SergioRamos.jpg */; };
+		6846021B18ED5EE000D37702 /* SergioRamos@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601E218ED5EE000D37702 /* SergioRamos@2x.png */; };
+		6846021C18ED5EE000D37702 /* Varane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601E318ED5EE000D37702 /* Varane.jpg */; };
+		6846021D18ED5EE000D37702 /* Varane@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601E418ED5EE000D37702 /* Varane@2x.png */; };
+		6846021E18ED5EE000D37702 /* VilliamVecchi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601E518ED5EE000D37702 /* VilliamVecchi.jpg */; };
+		6846022018ED5EE000D37702 /* ZinedineZidane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 684601E718ED5EE000D37702 /* ZinedineZidane.jpg */; };
+		6846022118ED5EE000D37702 /* ZinedineZidane@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 684601E818ED5EE000D37702 /* ZinedineZidane@2x.png */; };
+		6846022318ED649E00D37702 /* News.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6846022218ED649E00D37702 /* News.plist */; };
+		6846022718ED700100D37702 /* InfoDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6846022518ED700100D37702 /* InfoDetailViewController.m */; };
+		6846022818ED700100D37702 /* InfoDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6846022618ED700100D37702 /* InfoDetailViewController.xib */; };
+		6846022A18ED7D2E00D37702 /* GiovanniMauri@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6846022918ED7D2E00D37702 /* GiovanniMauri@2x.png */; };
+		6846022C18ED7D5800D37702 /* VilliamVecchi@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6846022B18ED7D5800D37702 /* VilliamVecchi@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,13 +132,73 @@
 		680F167D18E32F4C005F3939 /* MatchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatchViewController.h; sourceTree = "<group>"; };
 		680F167E18E32F4C005F3939 /* MatchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MatchViewController.m; sourceTree = "<group>"; };
 		680F167F18E32F4C005F3939 /* MatchViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MatchViewController.xib; sourceTree = "<group>"; };
-		682A852618EA927900C1CA0B /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = ../../Resource/1.png; sourceTree = "<group>"; };
 		682A852818EACC2300C1CA0B /* InfoTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoTableCell.h; sourceTree = "<group>"; };
 		682A852918EACC2300C1CA0B /* InfoTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoTableCell.m; sourceTree = "<group>"; };
 		682A852A18EACC2300C1CA0B /* InfoTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoTableCell.xib; sourceTree = "<group>"; };
 		682A853418EAD2F800C1CA0B /* UtilsObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UtilsObject.h; sourceTree = "<group>"; };
 		682A853518EAD2F800C1CA0B /* UtilsObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UtilsObject.m; sourceTree = "<group>"; };
 		682A853718EAD42D00C1CA0B /* Members.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Members.plist; sourceTree = "<group>"; };
+		684601B018ED5EE000D37702 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		684601B118ED5EE000D37702 /* Alonso.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Alonso.jpg; sourceTree = "<group>"; };
+		684601B218ED5EE000D37702 /* Alonso@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Alonso@2x.png"; sourceTree = "<group>"; };
+		684601B318ED5EE000D37702 /* Arbeloa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Arbeloa.jpg; sourceTree = "<group>"; };
+		684601B418ED5EE000D37702 /* Arbeloa@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Arbeloa@2x.png"; sourceTree = "<group>"; };
+		684601B518ED5EE000D37702 /* Bale.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bale.jpg; sourceTree = "<group>"; };
+		684601B618ED5EE000D37702 /* Bale@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bale@2x.png"; sourceTree = "<group>"; };
+		684601B718ED5EE000D37702 /* Benzema.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Benzema.jpg; sourceTree = "<group>"; };
+		684601B818ED5EE000D37702 /* Benzema@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Benzema@2x.png"; sourceTree = "<group>"; };
+		684601B918ED5EE000D37702 /* CarloAcelotti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CarloAcelotti.jpg; sourceTree = "<group>"; };
+		684601BA18ED5EE000D37702 /* CarloAcelotti@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CarloAcelotti@2x.png"; sourceTree = "<group>"; };
+		684601BB18ED5EE000D37702 /* Carvajal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Carvajal.jpg; sourceTree = "<group>"; };
+		684601BC18ED5EE000D37702 /* Carvajal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Carvajal@2x.png"; sourceTree = "<group>"; };
+		684601BD18ED5EE000D37702 /* Casemiro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Casemiro.jpg; sourceTree = "<group>"; };
+		684601BE18ED5EE000D37702 /* Casemiro@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Casemiro@2x.png"; sourceTree = "<group>"; };
+		684601BF18ED5EE000D37702 /* Casillas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Casillas.jpg; sourceTree = "<group>"; };
+		684601C018ED5EE000D37702 /* Casillas@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Casillas@2x.png"; sourceTree = "<group>"; };
+		684601C118ED5EE000D37702 /* Coentrao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Coentrao.jpg; sourceTree = "<group>"; };
+		684601C218ED5EE000D37702 /* Coentrao@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Coentrao@2x.png"; sourceTree = "<group>"; };
+		684601C318ED5EE000D37702 /* DiegoLopez.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DiegoLopez.jpg; sourceTree = "<group>"; };
+		684601C418ED5EE000D37702 /* DiegoLopez@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DiegoLopez@2x.png"; sourceTree = "<group>"; };
+		684601C518ED5EE000D37702 /* DiMaria.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DiMaria.jpg; sourceTree = "<group>"; };
+		684601C618ED5EE000D37702 /* DiMaria@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DiMaria@2x.png"; sourceTree = "<group>"; };
+		684601C718ED5EE000D37702 /* GiovanniMauri.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = GiovanniMauri.jpg; sourceTree = "<group>"; };
+		684601C918ED5EE000D37702 /* Illarra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Illarra.jpg; sourceTree = "<group>"; };
+		684601CA18ED5EE000D37702 /* Illarra@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Illarra@2x.png"; sourceTree = "<group>"; };
+		684601CB18ED5EE000D37702 /* Isco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Isco.jpg; sourceTree = "<group>"; };
+		684601CC18ED5EE000D37702 /* Isco@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Isco@2x.png"; sourceTree = "<group>"; };
+		684601CD18ED5EE000D37702 /* Jese.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jese.jpg; sourceTree = "<group>"; };
+		684601CE18ED5EE000D37702 /* Jese@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Jese@2x.png"; sourceTree = "<group>"; };
+		684601CF18ED5EE000D37702 /* Jesusfdez.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jesusfdez.jpg; sourceTree = "<group>"; };
+		684601D018ED5EE000D37702 /* Jesusfdez@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Jesusfdez@2x.png"; sourceTree = "<group>"; };
+		684601D118ED5EE000D37702 /* Khedira.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Khedira.jpg; sourceTree = "<group>"; };
+		684601D218ED5EE000D37702 /* Khedira@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Khedira@2x.png"; sourceTree = "<group>"; };
+		684601D318ED5EE000D37702 /* Marcelo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Marcelo.jpg; sourceTree = "<group>"; };
+		684601D418ED5EE000D37702 /* Marcelo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Marcelo@2x.png"; sourceTree = "<group>"; };
+		684601D518ED5EE000D37702 /* Modric.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Modric.jpg; sourceTree = "<group>"; };
+		684601D618ED5EE000D37702 /* Modric@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Modric@2x.png"; sourceTree = "<group>"; };
+		684601D718ED5EE000D37702 /* Morata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Morata.jpg; sourceTree = "<group>"; };
+		684601D818ED5EE000D37702 /* Morata@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Morata@2x.png"; sourceTree = "<group>"; };
+		684601D918ED5EE000D37702 /* Nacho.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nacho.jpg; sourceTree = "<group>"; };
+		684601DA18ED5EE000D37702 /* Nacho@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Nacho@2x.png"; sourceTree = "<group>"; };
+		684601DB18ED5EE000D37702 /* PaulClement.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PaulClement.jpg; sourceTree = "<group>"; };
+		684601DC18ED5EE000D37702 /* PaulClement@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PaulClement@2x.png"; sourceTree = "<group>"; };
+		684601DD18ED5EE000D37702 /* Pepe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pepe.jpg; sourceTree = "<group>"; };
+		684601DE18ED5EE000D37702 /* Pepe@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pepe@2x.png"; sourceTree = "<group>"; };
+		684601DF18ED5EE000D37702 /* Ronaldo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ronaldo.jpg; sourceTree = "<group>"; };
+		684601E018ED5EE000D37702 /* Ronaldo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ronaldo@2x.png"; sourceTree = "<group>"; };
+		684601E118ED5EE000D37702 /* SergioRamos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SergioRamos.jpg; sourceTree = "<group>"; };
+		684601E218ED5EE000D37702 /* SergioRamos@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SergioRamos@2x.png"; sourceTree = "<group>"; };
+		684601E318ED5EE000D37702 /* Varane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Varane.jpg; sourceTree = "<group>"; };
+		684601E418ED5EE000D37702 /* Varane@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Varane@2x.png"; sourceTree = "<group>"; };
+		684601E518ED5EE000D37702 /* VilliamVecchi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = VilliamVecchi.jpg; sourceTree = "<group>"; };
+		684601E718ED5EE000D37702 /* ZinedineZidane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ZinedineZidane.jpg; sourceTree = "<group>"; };
+		684601E818ED5EE000D37702 /* ZinedineZidane@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ZinedineZidane@2x.png"; sourceTree = "<group>"; };
+		6846022218ED649E00D37702 /* News.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = News.plist; sourceTree = "<group>"; };
+		6846022418ED700100D37702 /* InfoDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoDetailViewController.h; sourceTree = "<group>"; };
+		6846022518ED700100D37702 /* InfoDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoDetailViewController.m; sourceTree = "<group>"; };
+		6846022618ED700100D37702 /* InfoDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoDetailViewController.xib; sourceTree = "<group>"; };
+		6846022918ED7D2E00D37702 /* GiovanniMauri@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GiovanniMauri@2x.png"; sourceTree = "<group>"; };
+		6846022B18ED7D5800D37702 /* VilliamVecchi@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "VilliamVecchi@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,13 +258,13 @@
 		680F164218E32AB1005F3939 /* RealMadrid */ = {
 			isa = PBXGroup;
 			children = (
+				684601AF18ED5EB100D37702 /* Resources */,
 				680F166D18E32ADC005F3939 /* Match */,
 				680F166C18E32ACB005F3939 /* Info */,
 				680F166B18E32AC2005F3939 /* News */,
 				680F164B18E32AB1005F3939 /* AppDelegate.h */,
 				680F164C18E32AB1005F3939 /* AppDelegate.m */,
 				680F164E18E32AB1005F3939 /* Images.xcassets */,
-				682A852518EA8FEE00C1CA0B /* Resources */,
 				680F164318E32AB1005F3939 /* Supporting Files */,
 				682A853018EACFE200C1CA0B /* Objects */,
 			);
@@ -190,6 +309,7 @@
 				680F167318E32EA6005F3939 /* NewsDetailViewController.h */,
 				680F167418E32EA6005F3939 /* NewsDetailViewController.m */,
 				680F167518E32EA6005F3939 /* NewsDetailViewController.xib */,
+				6846022218ED649E00D37702 /* News.plist */,
 			);
 			name = News;
 			sourceTree = "<group>";
@@ -204,6 +324,9 @@
 				682A852818EACC2300C1CA0B /* InfoTableCell.h */,
 				682A852918EACC2300C1CA0B /* InfoTableCell.m */,
 				682A852A18EACC2300C1CA0B /* InfoTableCell.xib */,
+				6846022418ED700100D37702 /* InfoDetailViewController.h */,
+				6846022518ED700100D37702 /* InfoDetailViewController.m */,
+				6846022618ED700100D37702 /* InfoDetailViewController.xib */,
 			);
 			name = Info;
 			sourceTree = "<group>";
@@ -218,14 +341,6 @@
 			name = Match;
 			sourceTree = "<group>";
 		};
-		682A852518EA8FEE00C1CA0B /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				682A852618EA927900C1CA0B /* 1.png */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-		};
 		682A853018EACFE200C1CA0B /* Objects */ = {
 			isa = PBXGroup;
 			children = (
@@ -233,6 +348,70 @@
 				682A853518EAD2F800C1CA0B /* UtilsObject.m */,
 			);
 			name = Objects;
+			sourceTree = "<group>";
+		};
+		684601AF18ED5EB100D37702 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				684601B018ED5EE000D37702 /* 1.png */,
+				684601B118ED5EE000D37702 /* Alonso.jpg */,
+				684601B218ED5EE000D37702 /* Alonso@2x.png */,
+				684601B318ED5EE000D37702 /* Arbeloa.jpg */,
+				684601B418ED5EE000D37702 /* Arbeloa@2x.png */,
+				684601B518ED5EE000D37702 /* Bale.jpg */,
+				684601B618ED5EE000D37702 /* Bale@2x.png */,
+				684601B718ED5EE000D37702 /* Benzema.jpg */,
+				684601B818ED5EE000D37702 /* Benzema@2x.png */,
+				684601B918ED5EE000D37702 /* CarloAcelotti.jpg */,
+				684601BA18ED5EE000D37702 /* CarloAcelotti@2x.png */,
+				684601BB18ED5EE000D37702 /* Carvajal.jpg */,
+				684601BC18ED5EE000D37702 /* Carvajal@2x.png */,
+				684601BD18ED5EE000D37702 /* Casemiro.jpg */,
+				684601BE18ED5EE000D37702 /* Casemiro@2x.png */,
+				684601BF18ED5EE000D37702 /* Casillas.jpg */,
+				684601C018ED5EE000D37702 /* Casillas@2x.png */,
+				684601C118ED5EE000D37702 /* Coentrao.jpg */,
+				684601C218ED5EE000D37702 /* Coentrao@2x.png */,
+				684601C318ED5EE000D37702 /* DiegoLopez.jpg */,
+				684601C418ED5EE000D37702 /* DiegoLopez@2x.png */,
+				684601C518ED5EE000D37702 /* DiMaria.jpg */,
+				684601C618ED5EE000D37702 /* DiMaria@2x.png */,
+				684601C718ED5EE000D37702 /* GiovanniMauri.jpg */,
+				6846022918ED7D2E00D37702 /* GiovanniMauri@2x.png */,
+				684601C918ED5EE000D37702 /* Illarra.jpg */,
+				684601CA18ED5EE000D37702 /* Illarra@2x.png */,
+				684601CB18ED5EE000D37702 /* Isco.jpg */,
+				684601CC18ED5EE000D37702 /* Isco@2x.png */,
+				684601CD18ED5EE000D37702 /* Jese.jpg */,
+				684601CE18ED5EE000D37702 /* Jese@2x.png */,
+				684601CF18ED5EE000D37702 /* Jesusfdez.jpg */,
+				684601D018ED5EE000D37702 /* Jesusfdez@2x.png */,
+				684601D118ED5EE000D37702 /* Khedira.jpg */,
+				684601D218ED5EE000D37702 /* Khedira@2x.png */,
+				684601D318ED5EE000D37702 /* Marcelo.jpg */,
+				684601D418ED5EE000D37702 /* Marcelo@2x.png */,
+				684601D518ED5EE000D37702 /* Modric.jpg */,
+				684601D618ED5EE000D37702 /* Modric@2x.png */,
+				684601D718ED5EE000D37702 /* Morata.jpg */,
+				684601D818ED5EE000D37702 /* Morata@2x.png */,
+				684601D918ED5EE000D37702 /* Nacho.jpg */,
+				684601DA18ED5EE000D37702 /* Nacho@2x.png */,
+				684601DB18ED5EE000D37702 /* PaulClement.jpg */,
+				684601DC18ED5EE000D37702 /* PaulClement@2x.png */,
+				684601DD18ED5EE000D37702 /* Pepe.jpg */,
+				684601DE18ED5EE000D37702 /* Pepe@2x.png */,
+				684601DF18ED5EE000D37702 /* Ronaldo.jpg */,
+				684601E018ED5EE000D37702 /* Ronaldo@2x.png */,
+				684601E118ED5EE000D37702 /* SergioRamos.jpg */,
+				684601E218ED5EE000D37702 /* SergioRamos@2x.png */,
+				684601E318ED5EE000D37702 /* Varane.jpg */,
+				684601E418ED5EE000D37702 /* Varane@2x.png */,
+				684601E518ED5EE000D37702 /* VilliamVecchi.jpg */,
+				6846022B18ED7D5800D37702 /* VilliamVecchi@2x.png */,
+				684601E718ED5EE000D37702 /* ZinedineZidane.jpg */,
+				684601E818ED5EE000D37702 /* ZinedineZidane@2x.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -310,15 +489,73 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				684601E918ED5EE000D37702 /* 1.png in Resources */,
+				6846022318ED649E00D37702 /* News.plist in Resources */,
+				6846020D18ED5EE000D37702 /* Marcelo@2x.png in Resources */,
 				682A853818EAD42D00C1CA0B /* Members.plist in Resources */,
+				684601F318ED5EE000D37702 /* CarloAcelotti@2x.png in Resources */,
+				684601FC18ED5EE000D37702 /* DiegoLopez.jpg in Resources */,
+				6846022C18ED7D5800D37702 /* VilliamVecchi@2x.png in Resources */,
+				6846020F18ED5EE000D37702 /* Modric@2x.png in Resources */,
+				6846020518ED5EE000D37702 /* Isco@2x.png in Resources */,
+				684601F118ED5EE000D37702 /* Benzema@2x.png in Resources */,
+				6846020A18ED5EE000D37702 /* Khedira.jpg in Resources */,
 				680F167718E32EA6005F3939 /* NewsDetailViewController.xib in Resources */,
+				684601FB18ED5EE000D37702 /* Coentrao@2x.png in Resources */,
+				6846021218ED5EE000D37702 /* Nacho.jpg in Resources */,
+				6846021418ED5EE000D37702 /* PaulClement.jpg in Resources */,
+				684601FF18ED5EE000D37702 /* DiMaria@2x.png in Resources */,
+				684601F218ED5EE000D37702 /* CarloAcelotti.jpg in Resources */,
+				6846022A18ED7D2E00D37702 /* GiovanniMauri@2x.png in Resources */,
+				6846022118ED5EE000D37702 /* ZinedineZidane@2x.png in Resources */,
+				684601EE18ED5EE000D37702 /* Bale.jpg in Resources */,
+				684601F418ED5EE000D37702 /* Carvajal.jpg in Resources */,
 				680F164718E32AB1005F3939 /* InfoPlist.strings in Resources */,
+				6846022018ED5EE000D37702 /* ZinedineZidane.jpg in Resources */,
+				6846021E18ED5EE000D37702 /* VilliamVecchi.jpg in Resources */,
 				680F168118E32F4C005F3939 /* MatchViewController.xib in Resources */,
+				6846021A18ED5EE000D37702 /* SergioRamos.jpg in Resources */,
+				684601EB18ED5EE000D37702 /* Alonso@2x.png in Resources */,
+				6846020918ED5EE000D37702 /* Jesusfdez@2x.png in Resources */,
+				6846022818ED700100D37702 /* InfoDetailViewController.xib in Resources */,
+				684601FE18ED5EE000D37702 /* DiMaria.jpg in Resources */,
 				680F164F18E32AB1005F3939 /* Images.xcassets in Resources */,
+				684601ED18ED5EE000D37702 /* Arbeloa@2x.png in Resources */,
+				6846020218ED5EE000D37702 /* Illarra.jpg in Resources */,
 				680F167C18E32F20005F3939 /* InfoViewController.xib in Resources */,
+				684601EC18ED5EE000D37702 /* Arbeloa.jpg in Resources */,
+				684601EA18ED5EE000D37702 /* Alonso.jpg in Resources */,
+				6846021B18ED5EE000D37702 /* SergioRamos@2x.png in Resources */,
+				684601F018ED5EE000D37702 /* Benzema.jpg in Resources */,
+				6846021D18ED5EE000D37702 /* Varane@2x.png in Resources */,
+				6846020C18ED5EE000D37702 /* Marcelo.jpg in Resources */,
 				680F167218E32E8D005F3939 /* NewsViewController.xib in Resources */,
+				6846021018ED5EE000D37702 /* Morata.jpg in Resources */,
+				6846021718ED5EE000D37702 /* Pepe@2x.png in Resources */,
+				6846020618ED5EE000D37702 /* Jese.jpg in Resources */,
+				684601F618ED5EE000D37702 /* Casemiro.jpg in Resources */,
 				682A852C18EACC2300C1CA0B /* InfoTableCell.xib in Resources */,
-				682A852718EA927900C1CA0B /* 1.png in Resources */,
+				684601EF18ED5EE000D37702 /* Bale@2x.png in Resources */,
+				6846021918ED5EE000D37702 /* Ronaldo@2x.png in Resources */,
+				6846021118ED5EE000D37702 /* Morata@2x.png in Resources */,
+				6846020018ED5EE000D37702 /* GiovanniMauri.jpg in Resources */,
+				6846021C18ED5EE000D37702 /* Varane.jpg in Resources */,
+				6846020318ED5EE000D37702 /* Illarra@2x.png in Resources */,
+				6846021518ED5EE000D37702 /* PaulClement@2x.png in Resources */,
+				684601F518ED5EE000D37702 /* Carvajal@2x.png in Resources */,
+				6846020818ED5EE000D37702 /* Jesusfdez.jpg in Resources */,
+				6846020418ED5EE000D37702 /* Isco.jpg in Resources */,
+				6846020718ED5EE000D37702 /* Jese@2x.png in Resources */,
+				6846021318ED5EE000D37702 /* Nacho@2x.png in Resources */,
+				6846020B18ED5EE000D37702 /* Khedira@2x.png in Resources */,
+				6846021618ED5EE000D37702 /* Pepe.jpg in Resources */,
+				6846021818ED5EE000D37702 /* Ronaldo.jpg in Resources */,
+				684601FA18ED5EE000D37702 /* Coentrao.jpg in Resources */,
+				684601FD18ED5EE000D37702 /* DiegoLopez@2x.png in Resources */,
+				684601F718ED5EE000D37702 /* Casemiro@2x.png in Resources */,
+				684601F918ED5EE000D37702 /* Casillas@2x.png in Resources */,
+				684601F818ED5EE000D37702 /* Casillas.jpg in Resources */,
+				6846020E18ED5EE000D37702 /* Modric.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,6 +579,7 @@
 				680F167118E32E8D005F3939 /* NewsViewController.m in Sources */,
 				680F168018E32F4C005F3939 /* MatchViewController.m in Sources */,
 				680F164D18E32AB1005F3939 /* AppDelegate.m in Sources */,
+				6846022718ED700100D37702 /* InfoDetailViewController.m in Sources */,
 				682A853618EAD2F800C1CA0B /* UtilsObject.m in Sources */,
 				680F167B18E32F20005F3939 /* InfoViewController.m in Sources */,
 				680F164918E32AB1005F3939 /* main.m in Sources */,

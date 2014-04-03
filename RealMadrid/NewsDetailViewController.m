@@ -11,12 +11,14 @@
 @interface NewsDetailViewController ()
 @property (weak, nonatomic) IBOutlet UILabel *newsLabel;
 
+@property (weak, nonatomic) IBOutlet UITextView *newsContent;
 @end
 
 @implementation NewsDetailViewController
 
 -(void) viewWillAppear:(BOOL)animated{
     self.newsLabel.text = self.news;
+    self.newsContent.text = self.content;
 }
 
 @end

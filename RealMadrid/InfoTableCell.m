@@ -12,7 +12,7 @@
 
 @synthesize playerImg = _playerImg;
 @synthesize playerName = _playerName;
-@synthesize playerSalary = _playerSalary;
+@synthesize playerPosition = _playerPosition;
 
 - (void)awakeFromNib
 {
