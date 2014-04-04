@@ -12,6 +12,16 @@
 			<string>CarloAcelotti.jpg</string>
 			<key>image</key>
 			<string>CarloAcelotti@2x.png</string>
+			<key>placeofbirth</key>
+			<string>xx</string>
+			<key>yearofbirth</key>
+			<string>xx</string>
+			<key>weight</key>
+			<string>xx</string>
+			<key>height</key>
+			<string>aa</string>
+			<key>intro</key>
+			<string>bb</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -22,6 +32,16 @@
 			<string>ZinedineZidane.jpg</string>
 			<key>image</key>
 			<string>ZinedineZidane@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -32,6 +52,16 @@
 			<string>PaulClement.jpg</string>
 			<key>image</key>
 			<string>PaulClement@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -42,6 +72,16 @@
 			<string>GiovanniMauri.jpg</string>
 			<key>image</key>
 			<string>GiovanniMauri@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -52,6 +92,16 @@
 			<string>VilliamVecchi.jpg</string>
 			<key>image</key>
 			<string>VilliamVecchi@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 	</array>
 	<array>
@@ -64,6 +114,22 @@
 			<string>Casillas.jpg</string>
 			<key>image</key>
 			<string>Casillas@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Móstoles (Madrid)</string>
+			<key>yearofbirth</key>
+			<string>20/05/1981</string>
+			<key>weight</key>
+			<string>84 kg.</string>
+			<key>height</key>
+			<string>1,85 m.</string>
+			<key>intro</key>
+			<string>“A winner whose hard work is based on humility”
+                
+            Iker Casillas and Real Madrid are one and the same thing. He has been a Madrid fan since he was a child and he fulfilled his dream of playing for the club at the age of 10. Form the very beginning, it was clear that he was a special goalkeeper with extremely fast reflexes, great strength in both legs and the gift of being almost unbeatable in one-on-one situations.
+                
+            He has proved to be a born leader in all of the teams he has played for both at Real Madrid and for Spain. In his first Champions League Final, he performed brilliantly to help his team win their eighth European Cup. That same season, he played so well that he also won the Bravo Award for the best young player of the year.
+                
+            He has won everything there is to win, both for Real Madrid and for Spain. He was a key player in his country’s victories in the UEFA European Championship in 2008 and 2012 and was one of the Spanish heroes in the FIFA World Cup in South Africa in 2010. FIFA, UEFA, the fans…but, above all, his fantastic saves, honoured him with the title of the world’s best goalkeeper for five years running. </string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -74,6 +140,26 @@
 			<string>Jesusfdez.jpg</string>
 			<key>image</key>
 			<string>Jesusfdez@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Madrid</string>
+			<key>yearofbirth</key>
+			<string>11/06/1988</string>
+			<key>weight</key>
+			<string>83 kg.</string>
+			<key>height</key>
+			<string>1,90 m.
+
+    1,90 m.
+
+1,90 m.</string>
+			<key>intro</key>
+			<string>“I am a big, agile goalkeeper who tries to give his all for the team”
+
+Succeeding at Real Madrid was the objective that Jesús Fernández set himself when he signed for the Whites in 2010. He came to Madrid thanks to his performances in the youth teams of clubs such as Villarreal, Getafe and Numancia.
+ 
+He is strong in one-on-one situations, agile, good with high balls and positions himself well in his area, all of which made him one of the most important players at Real Madrid Castilla. His fantastic performances for this team enabled him to make his debut in La Liga for the first team on the 21st of May 2011.
+ 
+Due to his hard work, Jesús became the third goalkeeper in the first team in the 2012/2013 season. With teammates like Iker Casillas and Diego López, he has the chance to keep developing next to the best. </string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -84,6 +170,22 @@
 			<string>DiegoLopez.jpg</string>
 			<key>image</key>
 			<string>DiegoLopez@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Paradela (Lugo)</string>
+			<key>yearofbirth</key>
+			<string>03/11/1981</string>
+			<key>weight</key>
+			<string>89 kg.</string>
+			<key>height</key>
+			<string>1,96 m.</string>
+			<key>intro</key>
+			<string>“This is a dream come true: coming home to help my team”
+
+Diego López learned his football in the Real Madrid youth academy and is a goalkeeper with plenty of experience at the highest level. He is a reassuring presence for his team in dead ball situations and with high balls too. He is also an outstanding goalkeeper in terms of his reflexes and his excellent positioning.
+ 
+From the beginning of his career, he was much sought after by La Liga clubs. After making his debut for Real Madrid in the Champions League against Olympiacos and winning La Liga in 2007, he went on to play for both Villarreal and Sevilla. He was a key player for Villareal and his quality was recognized internationally when UEFA chose him in 2008 as the best new goalkeeper of the season.
+ 
+The Galician is now happy to be back home at Real Madrid for his second spell at the club and is aiming to win more honours for his team. </string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -94,6 +196,22 @@
 			<string>SergioRamos.jpg</string>
 			<key>image</key>
 			<string>SergioRamos@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Camas (Sevilla, Spain)</string>
+			<key>yearofbirth</key>
+			<string>30/03/1986</string>
+			<key>weight</key>
+			<string>75 kg.</string>
+			<key>height</key>
+			<string>1,83 m.</string>
+			<key>intro</key>
+			<string>“I’m a strong character and I am committed to my club”
+
+His courage and strength made him the revelation of La Liga in the 2004/2005 season. He was then playing for Sevilla, where he had started his career at the youth academy. His qualities did not go unnoticed by Real Madrid who signed him that summer.
+ 
+Since he arrived at Madrid, Ramos has been one of the key players in defence and has played both as a central defender and as a right-back. He has always led by example in terms of hard work, commitment and ambition and has been chosen as the vice-captain of the team. His defensive abilities are complemented by his speed, his powerful shooting and his goalscoring instincts.
+ 
+His reliability in defence has made him a regular for Spain for whom he made his international debut at just 19. He was an important part of the Spanish team that won the FIFA World CUP in 2010 and the UEFA European Championship in 2008 and 2012. </string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -104,6 +222,22 @@
 			<string>Pepe.jpg</string>
 			<key>image</key>
 			<string>Pepe@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Maceió (Brazil)</string>
+			<key>yearofbirth</key>
+			<string>26/02/1983</string>
+			<key>weight</key>
+			<string>81 kg.</string>
+			<key>height</key>
+			<string>1,88 m.</string>
+			<key>intro</key>
+			<string>“I’m a strong character and am committed to my club and my teammates”
+
+Pepe is technically impeccable, tactically perfect, has a great sense of positioning, speed, strength and intelligence. He is very strong in the air and is also elegant when playing the ball out of defence. Since he arrived at the club, Pepe has been a vital presence at the heart of the Real Madrid defence.
+ 
+The Madrid central defender started his career at Brazilian clubs and came to Europe at the age of 18 when he signed for Marítimo in Portugal. He stayed there for three seasons until in the 2004/2005 season his defensive abilities took him to Oporto. Since he was a child, he knew exactly what he wanted to achieve: &quot;Oporto was a step up in my career because my dream was to play for Real Madrid&quot;. 
+ 
+His progress has been meteoric throughout his career. He won many titles in Portugal such as the Intercontinental Cup, two Portuguese League titles, the Portuguese Cup and the Portuguese Super Cup before joining Real Madrid in 2007. </string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -114,6 +248,24 @@
 			<string>Varane.jpg</string>
 			<key>image</key>
 			<string>Varane@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Lille (France)</string>
+			<key>yearofbirth</key>
+			<string>25/04/1993</string>
+			<key>weight</key>
+			<string>78 kg.</string>
+			<key>height</key>
+			<string>1,91 m.
+
+1,91 m.</string>
+			<key>intro</key>
+			<string>“A young defender with a real desire to learn and help the team”
+
+Varane began his football career at the age of just seven. He showed the first signs of his talent at the Football Training Centre in Liévin (France) and began to develop his outstanding feature as a player, his elegance on the ball. He began to star for the youth teams of Racing Club de Lens and at the age of 17 he made his debut for them in Ligue 1, going on to become one of the stars of the 2010-11 season.
+ 
+He was playing for Lens when Real Madrid decided to sign him and, just a year after he arrived, the team won the Liga and the Spanish Super Cup. He has also achieved success in his home country and now plays for the French national team.
+ 
+He manages to combine youth with great quality and is a widely admired player around Europe where he is seen as one the most promising young players in modern football. He shows this quality on the pitch where his height means he is formidable in the air, as well as being versatile (he can play as a defender and as a defensive midfielder), composed on the ball, a great tactical reader of the game and also unusually mature for his years (he even captained Lens during his spell there). </string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -124,96 +276,260 @@
 			<string>Arbeloa.jpg</string>
 			<key>image</key>
 			<string>Arbeloa@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Salamanca</string>
+			<key>yearofbirth</key>
+			<string>17/01/1983</string>
+			<key>weight</key>
+			<string>79 kg.</string>
+			<key>height</key>
+			<string>1,84 m.</string>
+			<key>intro</key>
+			<string>&quot;All I know is I give my all for this shirt in every game&quot;
+
+Álvaro Arbeloa is a versatile player who is a born leader inside and outside the dressing-room. These are the qualities that made him stand out in the Real Madrid youth team. In 2005 he captained Real Madrid Castilla and was one of the key players in their promotion to the Spanish Second Division, a promotion which had taken 14 years to achieve.
+
+A few years later he signed for Deportivo La Coruña, but really matured as a full-back at Liverpool. Thanks to his excellent performances for the English side, Álvaro Arbeloa proved his worth to Real Madrid and was able to come back to what had always been his home.
+
+He was also called up to the Spanish national team and made his international debut in the summer of 2008. He was one of the 23 players in the squad that won the European Championship in Austria and Switzerland and was also a member of the squad that won the World Cup in 2010 and the European Championship in 2012.</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Carvajal</string>
+			<string>Daniel Carvajal Ramos</string>
 			<key>position</key>
 			<string>Defender</string>
 			<key>avatar</key>
 			<string>Carvajal.jpg</string>
 			<key>image</key>
 			<string>Carvajal@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Leganés (Madrid)</string>
+			<key>yearofbirth</key>
+			<string>11/01/1992</string>
+			<key>weight</key>
+			<string>73 kg.</string>
+			<key>height</key>
+			<string>1,73 m.</string>
+			<key>intro</key>
+			<string>“I’ll fight until my last breath to help the team”
+
+Local full-back Dani Carvajal started his career at the Real Madrid youth academy and is particularly noted for his speed and the composure he displays in his position. He has been a regular at all level of Spanish international youth football and has earned a European Championship medal at Under -19 and Under-21 level.
+ 
+In 2012 he signed for Bayer Leverkusen where he showed both his defensive skills and his ability to push forward and attack (he scored 1 goal and made 7 assists in his season in the Bundesliga). His great work rate, his speed and physical strength all led the German newspaper Bild to choose him as the best right-back in the German league.
+ 
+Thanks to his excellent performances in Germany, Carvajal came back to Real Madrid in July 2013 to join the first team. When he left Bayer Leverkusen, the German club’s executive director Wolfgang Holzahauser spoke of the &quot;great impression as a person and as a sportsman&quot; that Carvajal had made there. &quot;We’re sorry to see him leave, but this is his chance to fulfill his boyhood dream to play in the first team at Real Madrid. He is a Real Madrid fan and we wish him all the best for the future as a footballer&quot;. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Coentrão</string>
+			<string>Fábio A. Silva Coentrão</string>
 			<key>position</key>
 			<string>Defender</string>
 			<key>avatar</key>
 			<string>Coentrao.jpg</string>
 			<key>image</key>
 			<string>Coentrao@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Vila do Conde (Portugal)</string>
+			<key>yearofbirth</key>
+			<string>11/03/1988</string>
+			<key>weight</key>
+			<string>70 kg.</string>
+			<key>height</key>
+			<string>1,79 m.</string>
+			<key>intro</key>
+			<string>“I’m the kind of player who gives his life for the team”
+
+Speed, swerves and versatility are the main features of Fábio Coentrão. He is a player who can offer a lot to the team both in attack and in defence and has plenty of experience of football at the highest level. His defensive ability helped Real Madrid to win La Liga and the Spanish Super Cup in 2012.
+
+He learned his football in the youth academy at Río Ave, played for most of his early career in Portugal and is a regular for the Portuguese national team. Before playing at the top level in his home country, Coentrão played for a short period in Spain for Real Zaragoza where he was on loan.
+
+It was while he was at Benfica that his trainer, Jorge Jesús, made him play further back and Fábio adapted perfectly to the new position to become one of the best full backs in Europe. That’s the reason why Coentrão talks about his trainer at Benfica as the most important person in his career. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Marcelo</string>
+			<string>Marcelo Vieira da Silva</string>
 			<key>position</key>
 			<string>Defender</string>
 			<key>avatar</key>
 			<string>Marcelo.jpg</string>
 			<key>image</key>
 			<string>Marcelo@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Río de Janeiro (Brazil)</string>
+			<key>yearofbirth</key>
+			<string>12/05/1988</string>
+			<key>weight</key>
+			<string>75 kg.</string>
+			<key>height</key>
+			<string>1,74 m.</string>
+			<key>intro</key>
+			<string>“I’m proud to wear this shirt. It’s an honour to defend this badge”
+
+Marcelo started playing five-a-side football at the age of 9 and by 13 he was at Fluminense. He comes from quite a poor family and almost had to leave the football academy because he couldn’t afford to pay for the bus to take him to training. Nevertheless, his determination and his ability made him fight for what he loved and he was best at: football.
+ 
+Marcelo came to Europe when he was 18 having already triumphed in Brazil. He is a very fast, attacking full-back who has worked hard since his arrival to take the opportunities that his coaches have given him to secure a place in the first team.
+ 
+In 2006, he made his debut for Brazil against Wales and made his mark immediately. He scored a fantastic goal which showed all of his best features as a footballer. Strength and speed in defence, great skill on the ball and a constant attacking threat on the left wing.</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Nacho</string>
+			<string>Nacho(Nacho José I. Fernández Iglesias)</string>
 			<key>position</key>
 			<string>Defender</string>
 			<key>avatar</key>
 			<string>Nacho.jpg</string>
 			<key>image</key>
 			<string>Nacho@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Madrid</string>
+			<key>yearofbirth</key>
+			<string>18/01/1990</string>
+			<key>weight</key>
+			<string>75 kg.</string>
+			<key>height</key>
+			<string>1,79 m.</string>
+			<key>intro</key>
+			<string>“I want to be an important player for the team and provide security in defence”
+
+Nacho is a homegrown player who perfectly embodies the values of Real Madrid. He has been at the club for over a decade having arrived in 2001 as a youth team player. He has gradually risen through the ranks to the first team. Just one month after winning the UEFA Under-21 Championship, he also earned his first full cap in Geneva (Switzerland) against Chile.
+ 
+One of the most important dates in his career was the 23rd of April 2011 when he made his debut for Real Madrid away against Valencia. Nacho started the game which Madrid won 6-3.
+ 
+Although his natural position is at centre back, he is a versatile player. He plays intelligently in any defensive position and stands out for his speed, calmness, strong tackling and, above all, his great maturity on the pitch in spite of his youth. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Alonso</string>
+			<string>Xabier Alonso Olano</string>
 			<key>position</key>
 			<string>Midfielder</string>
 			<key>avatar</key>
 			<string>Alonso.jpg</string>
 			<key>image</key>
 			<string>Alonso@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Tolosa (Spain)</string>
+			<key>yearofbirth</key>
+			<string>25/11/1981</string>
+			<key>weight</key>
+			<string>77 kg.</string>
+			<key>height</key>
+			<string>1,83 m.</string>
+			<key>intro</key>
+			<string>“I am just a team player”
+
+Xabi Alonso is the ‘brain’ of Real Madrid. The speed and accuracy of his passing and his vision of the game make him the reference point in the Whites’ midfield. His brilliance was crucial in winning the Copa del Rey in 2011 and the La Liga and the Spanish Super Cup in 2012.
+
+He was brought up in a football family and followed in his father’s and his brother’s footsteps. He started his career playing for his local team Antiguoko in San Sebastián and quickly caught the attention of several scouts from major clubs.
+
+He would soon join Real Sociedad, where he gained further experience and matured as a footballer. However, it was his spell at Liverpool which really made him one of the best midfielders in Europe. He became one of the key players for the Reds and was a commanding presence in midfield for the team which went on to win the Champions League final.
+
+He is also a key player in the Spanish national team. His greatest achievement with this team was winning the World Cup in South Africa in 2010 and he was also a member of the squad that won the European Championship in 2008 and 2012. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Khedira</string>
+			<string>Sami Khedira</string>
 			<key>position</key>
 			<string>Midfielder</string>
 			<key>avatar</key>
 			<string>Khedira.jpg</string>
 			<key>image</key>
 			<string>Khedira@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Stuttgart (Germany)</string>
+			<key>yearofbirth</key>
+			<string>04/04/1987</string>
+			<key>weight</key>
+			<string>85 kg.</string>
+			<key>height</key>
+			<string>1,89 m.</string>
+			<key>intro</key>
+			<string>“I feel proud to play for Real Madrid and I want to win everything with this club”
+
+A top quality footballer who always makes a contribution to the team, Khedira is a dynamic midfielder who covers all of the pitch, wins the ball back in the middle and joins the attack. He is very powerful in the air thanks to his height (1.89 metres) and has a powerful shot from medium range.
+ 
+He joined Real Madrid at the age of 23 when he already had plenty of experience and had won several important honours. He started at the Stuttgart youth academy and rose through the ranks until he made his first team debut in 2006-07 at the age of 19. That season he was a key player and helped his team to win their fifth Bundesliga Championship.
+ 
+Khedira has also won honours on an international level. He was captain of the German Under 21 team that won the UEFA Championship in Sweden and was also a regular in the German national team that won third place in the FIFA World Cup in 2010. His brilliant performances at that tournament were instrumental in his signing for Real Madrid the same year. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Illarra</string>
+			<string>Asier Illarramendi Andonegi</string>
 			<key>position</key>
 			<string>Midfielder</string>
 			<key>avatar</key>
 			<string>Illarra.jpg</string>
 			<key>image</key>
 			<string>Illarra@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Motrico (Guipúzcoa)</string>
+			<key>yearofbirth</key>
+			<string>08/03/1990</string>
+			<key>weight</key>
+			<string>76 kg.</string>
+			<key>height</key>
+			<string>1,79 m.</string>
+			<key>intro</key>
+			<string>“I give my all and try to improve every day”
+
+Asier arrived at Real Madrid thanks to his great performances for Real Sociedad in qualifying for the Champions League. His leadership skills in midfield helped the Basque team to have one of the best ever seasons.
+
+His role model is Xabi Alonso who he admires greatly and considers “one of the best in the world”. Illarramendi hopes to follow in Alonso’s footsteps and prove his potential. He has great vision, hits long passes with precision and is surely destined to become one of the key players in Spanish football.
+
+He has represented his country at all levels of international youth football and played an important role in the victory in the last UEFA European Under-21 Championship. Madrid didn’t hesitate to sign this young player who is sure to delight the Santiago Bernabéu with his creative skills and his ability to organize the attack. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Isco</string>
+			<string>Isco(Francisco Román Alarcón)</string>
 			<key>position</key>
 			<string>Midfielder</string>
 			<key>avatar</key>
 			<string>Isco.jpg</string>
 			<key>image</key>
 			<string>Isco@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Benalmádena (Málaga, Spain)</string>
+			<key>yearofbirth</key>
+			<string>21/04/1992</string>
+			<key>weight</key>
+			<string>74 kg.</string>
+			<key>height</key>
+			<string>1,76 m.</string>
+			<key>intro</key>
+			<string>For a footballer there is nothing greater than Real Madrid”
+
+Skill, pace and imagination are some of the qualities that make Isco a top quality midfielder. His precise passing and his dribbling thrilled La Liga and now belong to the Bernabéu.
+
+He led Málaga to the greatest period in their history, playing 35 goals in his first season and scoring 5 goals. In his second season, he improved on this and played 47 games and scored 12 goals (9 in La Liga and 3 in Europe).
+
+He was instrumental in helping Málaga to reach the quarter finals of the Champions League and impressed everybody with his talent in the UEFA Under-21 Championship in Israel. He scored 3 goals and made a decisive contribution to Spain’s victory in this competition.
+
+Isco was awarded the Golden Boy Award in 2012, a prize given by the Italian magazine Tuttosport to the best Under-21 player in Europe. He also made his debut for the Spanish national team in a friendly against Uruguay in February 2013. Since he signed for the Whites, he feels that he has triumphed: “For a footballer there is nothing greater than Real Madrid”. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Bale</string>
+			<string>Gareth Bale</string>
 			<key>position</key>
 			<string>Midfielder</string>
 			<key>avatar</key>
 			<string>Bale.jpg</string>
 			<key>image</key>
 			<string>Bale@2x.png</string>
+			<key>placeofbirth</key>
+			<string>Cardiff (Wales)</string>
+			<key>yearofbirth</key>
+			<string>16/07/1989</string>
+			<key>weight</key>
+			<string>74 kg.</string>
+			<key>height</key>
+			<string>1.83 m.</string>
+			<key>intro</key>
+			<string>“It’s just incredible to be here. It’s a dream come true”
+
+When speed and skill come together, the result is called Gareth Bale. Gareth is a very complete midfielder and has a lethal weapon in his left foot. He is the first Welshman to play for Real Madrid who he joined after being named the PFA Player’s Player of the Year in the Premier League in two of the last three years (2010-11 and 2012-13), and left a lasting influence at Tottenham Hotspur.
+ 
+The Welshman showed his promise at a very early age. He made his debut for Southampton and the Welsh national team at the end of the 2005-06 season at the age of just 16. At the age of 17, he became the youngest player in history to score a goal for his national team. He progressed so quickly that in 2007 he made the move to a major club like Tottenham Hotspur where he made a huge impact due to his direct style of play.
+ 
+After scoring 26 goals in 44 matches last season, Bale joined Real Madrid in September 2013. In Madrid he has been reunited with Luka Modric, his old teammate at Spurs and has brought his attacking potential to a Madrid team that with Cristiano Ronaldo was already a major force.</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -224,6 +540,16 @@
 			<string>Casemiro.jpg</string>
 			<key>image</key>
 			<string>Casemiro@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -234,6 +560,16 @@
 			<string>Modric.jpg</string>
 			<key>image</key>
 			<string>Modric@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -244,6 +580,16 @@
 			<string>DiMaria.jpg</string>
 			<key>image</key>
 			<string>DiMaria@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -254,6 +600,16 @@
 			<string>Ronaldo.jpg</string>
 			<key>image</key>
 			<string>Ronaldo@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -264,6 +620,16 @@
 			<string>Benzema.jpg</string>
 			<key>image</key>
 			<string>Benzema@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -274,6 +640,16 @@
 			<string>Morata.jpg</string>
 			<key>image</key>
 			<string>Morata@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -284,6 +660,16 @@
 			<string>Jese.jpg</string>
 			<key>image</key>
 			<string>Jese@2x.png</string>
+			<key>placeofbirth</key>
+			<string></string>
+			<key>yearofbirth</key>
+			<string></string>
+			<key>weight</key>
+			<string></string>
+			<key>height</key>
+			<string></string>
+			<key>intro</key>
+			<string></string>
 		</dict>
 	</array>
 </array>

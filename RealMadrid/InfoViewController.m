@@ -129,9 +129,9 @@
 {
     // Navigation logic may go here, for example:
     // Create the next view controller.
-    if (!_infoDetail) {
+    //if (!_infoDetail) {
         _infoDetail = [[InfoDetailViewController alloc] initWithNibName:@"InfoDetailViewController" bundle:nil];
-    }
+    //}
     
     if(indexPath.section == 0){
         NSDictionary *coaches = _listPlayer[0][indexPath.row];
@@ -143,8 +143,12 @@
         _infoDetail.name = [player objectForKey:@"name"];
         _infoDetail.position =  [player objectForKey:@"position"];
         _infoDetail.image = [UIImage imageNamed:[player objectForKey:@"image"]];
+        _infoDetail.placeOfBirth = [player objectForKey:@"placeofbirth"];
+        _infoDetail.yearOfBirth = [player objectForKey:@"yearofbirth"];
+         _infoDetail.weightMember = [player objectForKey:@"weight"];
+         _infoDetail.heightMember = [player objectForKey:@"height"];
+         _infoDetail.introMember = [player objectForKey:@"intro"];
     }
-    
     
     [self.navigationController pushViewController:_infoDetail animated:YES];
 }

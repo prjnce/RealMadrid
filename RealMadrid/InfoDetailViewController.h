@@ -13,4 +13,11 @@
 @property (retain, nonatomic) UIImage *image;
 @property (retain, nonatomic) NSString *name;
 @property (retain, nonatomic) NSString *position;
+
+@property (retain, nonatomic) NSString *placeOfBirth;
+@property (retain, nonatomic) NSString *yearOfBirth;
+@property (retain, nonatomic) NSString *weightMember;
+@property (retain, nonatomic) NSString *heightMember;
+@property (retain, nonatomic) NSString *introMember;
+
 @end
