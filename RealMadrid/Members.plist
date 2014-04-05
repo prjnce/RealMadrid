@@ -13,15 +13,22 @@
 			<key>image</key>
 			<string>CarloAcelotti@2x.png</string>
 			<key>placeofbirth</key>
-			<string>xx</string>
+			<string>Reggiolo, Italia</string>
 			<key>yearofbirth</key>
-			<string>xx</string>
+			<string>10/06/1959</string>
 			<key>weight</key>
-			<string>xx</string>
+			<string>0</string>
 			<key>height</key>
-			<string>aa</string>
+			<string>1,80 m.</string>
 			<key>intro</key>
-			<string>bb</string>
+			<string>Teams managed
+1995–1996 	Reggiana
+1996–1998 	Parma
+1999–2001 	Juventus
+2001–2009 	Milan
+2009–2011 	Chelsea
+2011–2013 	Paris Saint-Germain
+2013– 	Real Madrid</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -33,15 +40,17 @@
 			<key>image</key>
 			<string>ZinedineZidane@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>Marseille, France</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>23/06/1972</string>
 			<key>weight</key>
-			<string></string>
+			<string>0</string>
 			<key>height</key>
-			<string></string>
+			<string>1,85 m.</string>
 			<key>intro</key>
-			<string></string>
+			<string>At the club level, Zidane won the La Liga title and the UEFA Champions League with Real Madrid, two Serie A league championships with Juventus and an Intercontinental Cup and a UEFA Super Cup each with both aforementioned sides. On the international stage, Zidane won 1998 FIFA World Cup and Euro 2000 with France.
+
+Amongst his personal accolades Zidane has won the FIFA World Player of the Year three times, and the Ballon D&apos;Or once. He was Ligue 1 Player of the Year in 1996, Serie A Footballer of the Year in 2001 and La Liga Best Foreign Player in 2002. He was awarded the Euro 2000 Player of the tournament and the 2006 FIFA World Cup Golden Ball. He retired from professional football after the 2006 World Cup.</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -53,15 +62,23 @@
 			<key>image</key>
 			<string>PaulClement@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>England</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>08/01/1972 </string>
 			<key>weight</key>
-			<string></string>
+			<string>0</string>
 			<key>height</key>
-			<string></string>
+			<string>0</string>
 			<key>intro</key>
-			<string></string>
+			<string>Teams managed
+Years 	Team 		
+1996–1999 	Chelsea (Academy Coach)
+1999–2000 	Fulham (Academy Coach)
+2000 	Republic Of Ireland U-21 (Coach)
+2007–2011 	Chelsea (Coach)
+2011–2012 	Blackburn Rovers (Assistant Coach)
+2012–2013 	Paris Saint-Germain (Assistant Coach)
+2013– 	Real Madrid (Assistant Coach)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -73,15 +90,15 @@
 			<key>image</key>
 			<string>GiovanniMauri@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>Italy</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>15/11/1956</string>
 			<key>weight</key>
-			<string></string>
+			<string>0</string>
 			<key>height</key>
-			<string></string>
+			<string>0</string>
 			<key>intro</key>
-			<string></string>
+			<string>Physiotherapist</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -93,15 +110,20 @@
 			<key>image</key>
 			<string>VilliamVecchi@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>Scandiano, Italy</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>28/12/1948</string>
 			<key>weight</key>
-			<string></string>
+			<string>0</string>
 			<key>height</key>
-			<string></string>
+			<string>1,78 m.</string>
 			<key>intro</key>
-			<string></string>
+			<string>He played with Milan from 1967 to 1974, and joined Calcio Como in 1976. In his five years with the club, Como endured a rollercoaster ride through Serie B and Serie C1 before making the top flight in 1980, where they remained as he departed after the 1980–81 campaign; Como were relegated back to Serie B the following season.
+
+He has the distinction of having trained both Dida and Gianluigi Buffon, the latter during a stint with Parma F.C. under the helm of former Milan head coach Carlo Ancelotti.
+
+His first name is often misinterpreted as William.
+</string>
 		</dict>
 	</array>
 	<array>
@@ -533,7 +555,7 @@ After scoring 26 goals in 44 matches last season, Bale joined Real Madrid in Sep
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Casemiro</string>
+			<string>Carlos Henrique Casemiro</string>
 			<key>position</key>
 			<string>Midfielder</string>
 			<key>avatar</key>
@@ -541,19 +563,25 @@ After scoring 26 goals in 44 matches last season, Bale joined Real Madrid in Sep
 			<key>image</key>
 			<string>Casemiro@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>Sao Paulo (Brazil)</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>23/02/1992</string>
 			<key>weight</key>
-			<string></string>
+			<string>80 kg.</string>
 			<key>height</key>
-			<string></string>
+			<string>1,84 m.</string>
 			<key>intro</key>
-			<string></string>
+			<string>“I can perform two or three roles at the same time”
+
+Casemiro is one of the new pearls of Brazilian football. When he started playing for Real Madrid Castilla in 2012/13 he made an immediate impact with his versatility and personality. After performing well for Castilla, he joined the first team squad to strengthen the midfield.
+ 
+He started playing football in the youth team of Sao Paulo, his home town club, and made it to the first team at the age of 18. Despite his youth, he became one of the stars of the Brazilian league thanks to his assured style of play on the pitch. Casemiro was part of the Brazilian Under-20 team that won the South American Youth Championship and the FIFA Under-20 World Cup in 2011. In the same year he earned his first cap for Brazil.
+ 
+Casemiro is a midfielder who is strong coming forward and can also defend well. His powerful physique is obvious, but he is a skilful player too. He links up well with his teammates, has great vision and offers the team plenty of options in midfield. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Modric</string>
+			<string>Luka Modric</string>
 			<key>position</key>
 			<string>Midfielder</string>
 			<key>avatar</key>
@@ -561,15 +589,21 @@ After scoring 26 goals in 44 matches last season, Bale joined Real Madrid in Sep
 			<key>image</key>
 			<string>Modric@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>Zadar (Croatia)</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>09/09/1985</string>
 			<key>weight</key>
-			<string></string>
+			<string>65 kg.</string>
 			<key>height</key>
-			<string></string>
+			<string>1,74 m.</string>
 			<key>intro</key>
-			<string></string>
+			<string>&quot;I can play anywhere in midfield&quot;
+
+Skill and organizational ability at the service of the Whites’ midfield. After starring in three different countries (Bosnia, Croatia and England) and in the European Championship, Luka Modric signed for Real Madrid in August 2012, thus reaching the peak of his football career.
+ 
+The Croatian has always had outstanding vision which allows him to play in several different positions. He started as an attacking midfielder who could play the final ball to forwards but in recent years he has played further back. He now helps out more with defensive tasks and plays the ball out from the back to begin the attack. He’s a versatile player who provides plenty of options for the team.
+ 
+At the age of 18, Luka was named the best player in the Bosnian First Division and was awarded the same title in 2007 in Croatia. He continued his career in the Premier League where he became Tottenham’s record signing and the key player in their midfield. In his four seasons at Spurs, he made 24 assists and scored 13 goals, and earned a deserved reputation as a creative and unselfish midfielder who always aims to help his team. </string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -581,19 +615,25 @@ After scoring 26 goals in 44 matches last season, Bale joined Real Madrid in Sep
 			<key>image</key>
 			<string>DiMaria@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>Rosario (Argentina)</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>14/02/1988</string>
 			<key>weight</key>
-			<string></string>
+			<string>70 kg.</string>
 			<key>height</key>
-			<string></string>
+			<string>1,80 m.</string>
 			<key>intro</key>
-			<string></string>
+			<string>&quot;I am a very ambitious player&quot;
+
+A tremendously fast and incisive footballer who starts his runs out on the wing and then heads in towards the opposing area spreading panic among defenders. That’s Ángel di María. He’s a winger who started his career in one of the most prolific youth academies in Argentine football, Rosario Central. Ángel’s cultured left foot made him stand out from the beginning of his career and he was soon wanted by many major clubs.
+ 
+At the age of just 17, he made his debut for Rosario Central and from that moment onwards his career really took off and has led him all the way to the top at Real Madrid. During his spell at Benfica, he won his first important honours and was also voted the best player in the Portuguese league.
+ 
+His pace and ability to take on and beat opponents provide Real Madrid with a truly amazing range of attacking options. His dribbling skills and his left foot shots mean that he is a constant headache for rival defenders and goalkeepers, and Real Madrid have reaped the rewards in the shape of honours such as the Liga title, the Copa del Rey and the Spanish Super Cup which the Argentine has been instrumental in winning. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Ronaldo</string>
+			<string>Cristiano Ronaldo Dos Santos</string>
 			<key>position</key>
 			<string>Forward</string>
 			<key>avatar</key>
@@ -601,19 +641,25 @@ After scoring 26 goals in 44 matches last season, Bale joined Real Madrid in Sep
 			<key>image</key>
 			<string>Ronaldo@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>Funchal (Portugal)</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>05/02/1985</string>
 			<key>weight</key>
-			<string></string>
+			<string>80 kg.</string>
 			<key>height</key>
-			<string></string>
+			<string>1,85 m.</string>
 			<key>intro</key>
-			<string></string>
+			<string>&quot;I am an ambitious player with only one objective: victory for my team&quot;
+
+Cristiano Ronaldo is a player who is destined to make history. Thanks to his immense natural talent, the Portuguese forward is a commanding leader for Real Madrid and his national team. Since he arrived at the Bernabéu from Manchester United, his goalscoring figures have just kept on improving to the delight of Madrid fans. He is now firmly established as one of the leading goalscorers in the history of the club and he wants to further improve the already illustrious lists of honours won by the greatest club of the 20th Century.
+
+He has an insatiable appetite for goals, truly immense physical strength, lightning speed, a fierce shot with both feet and he is also a fine header of the ball, all of which make him a constant threat for opposing defenders.
+
+He started his career at Andorinha, a small club from his home town where his father worked as the kit man. At just 11 years of age, he caught the attention of one of the greatest clubs in his country, Sporting Clube de Portugal. This was just the beginning of the unstoppable rise to success of a player who is a born winner and shows a level of drive and ambition that is only found among the greatest footballers in history. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Benzema</string>
+			<string>Karim Benzema</string>
 			<key>position</key>
 			<string>Forward</string>
 			<key>avatar</key>
@@ -621,19 +667,25 @@ After scoring 26 goals in 44 matches last season, Bale joined Real Madrid in Sep
 			<key>image</key>
 			<string>Benzema@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>Lyon (France)</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>19/12/1987</string>
 			<key>weight</key>
-			<string></string>
+			<string>79 kg.</string>
 			<key>height</key>
-			<string></string>
+			<string>1,87 m.</string>
 			<key>intro</key>
-			<string></string>
+			<string>“I’m a forward who loves good football”
+
+A precocious talent and widely considered to be one of best all-round forwards in the world, Benzema can make his own chances, finish clinically in the area and make assists for his teammates. He always places his talents at the service of the team.
+ 
+His game is based on power and movement on both wings, skill on the ball and deadly finishing in the last few metres of the pitch. From the beginning of his career at Olympique Lyonnais it was obvious that he would be a great player. During his spell at the French club he collected several collective and individual honours such as the Bravo Award in 2008. It was therefore no surprise that Real Madrid did not think twice about recruiting such a special talent and signed him the following summer.
+ 
+He was already an experienced player at the highest level and the move to Madrid meant fulfilling one of his biggest dreams: wearing the same shirt as his hero, Ronaldo Nazario. The French forward now wants to win with Real Madrid the one honour that has eluded him, the Champions League, a competition in which he has one of the best goalscoring averages.</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Morata</string>
+			<string>Álvaro Borja Morata Martín</string>
 			<key>position</key>
 			<string>Forward</string>
 			<key>avatar</key>
@@ -641,19 +693,25 @@ After scoring 26 goals in 44 matches last season, Bale joined Real Madrid in Sep
 			<key>image</key>
 			<string>Morata@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>Madrid</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>23/10/1992</string>
 			<key>weight</key>
-			<string></string>
+			<string>82 kg.</string>
 			<key>height</key>
-			<string></string>
+			<string>1,90 m.</string>
 			<key>intro</key>
-			<string></string>
+			<string>“I hope to score many goals to help the team”
+
+Morata is one of the most promising players from the Madrid youth academy and is a hugely popular player at the Bernabéu. He is a born goalscorer and has proved this as one of the top scorers in all of the teams he has played for. He is now fulfilling his dream and is part of the first team but he is not going to settle for that. He wants to achieve more and win titles with his beloved Real Madrid.
+ 
+He is fast and powerful, an instinctive goalscorer who makes the most of chances and this makes him a key player for the Whites in the present and the future. He has twice been European champion with Spanish youth teams (Under-19 and Under-21), and he aims to succeed alongside his hero, Cristiano Ronaldo. Since he arrived at the youth academy, he has gone from strength to strength and has become one of the most outstanding talents in Spanish football.
+ 
+He is aware that the key to success is hard work and that he is in the right place and with the best professionals to help him keep improving. The demanding nature of Real Madrid is just what Morata needs to become a top player for the club. </string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Jesé</string>
+			<string>Jesé Rodríguez Ruiz</string>
 			<key>position</key>
 			<string>Forward</string>
 			<key>avatar</key>
@@ -661,15 +719,22 @@ After scoring 26 goals in 44 matches last season, Bale joined Real Madrid in Sep
 			<key>image</key>
 			<string>Jese@2x.png</string>
 			<key>placeofbirth</key>
-			<string></string>
+			<string>Las Palmas de Gran Canaria (Spain)</string>
 			<key>yearofbirth</key>
-			<string></string>
+			<string>26/02/1993</string>
 			<key>weight</key>
-			<string></string>
+			<string>73 kg.</string>
 			<key>height</key>
-			<string></string>
+			<string>1,78 m.</string>
 			<key>intro</key>
-			<string></string>
+			<string>“I’m a skilful, dynamic and quick player; my strong point is going past opponents”.
+
+Jesé arrived at the Real Madrid youth academy at the age of 14 and is currently one of the greatest talents in Spanish football. He is from Gran Canaria and always wanted to play for the Whites. Six years after his arrival, he is now a member of the first team and is starting to show that he is a top class footballer. Speed, creativity, power and intensity are the main features of this rough diamond.
+ 
+He has earned his place among the stars of Real Madrid thanks to his wonderful performances for Real Madrid Castilla last season. He broke the goal-scoring record of a Madrid legend and his own personal hero, Emilio Butragueño, by scoring 22 goals in the Second Division in a single season.
+ 
+His ability to go past opponents and his determination to do so are a major problem for opposition defenders and the club scouts noticed this straight away. In 2011 he went on the pre-season tour of the USA with the first team and he made his debut for Real Madrid in a King’s Cup qualifying round against Ponferradina. His role model is Cristiano Ronaldo and this means that Jesé’s objective is clear: to be the best player in the world.
+</string>
 		</dict>
 	</array>
 </array>

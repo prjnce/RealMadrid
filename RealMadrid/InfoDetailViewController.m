@@ -17,6 +17,8 @@
 @property (weak, nonatomic) IBOutlet UILabel *weight;
 @property (weak, nonatomic) IBOutlet UILabel *height;
 @property (weak, nonatomic) IBOutlet UITextView *intro;
+@property (weak, nonatomic) IBOutlet UIImageView *bgNumber;
+@property (weak, nonatomic) IBOutlet UILabel *numberLabel;
 
 @end
 
@@ -34,6 +36,15 @@
     _weight.text = self.weightMember;
     _height.text = self.heightMember;
     _intro.text = self.introMember;
+    
+    // show - hidden number
+    if (_flag) {
+        _numberLabel.text = @"10";
+        [_bgNumber setHidden:FALSE];
+    }else{
+        _numberLabel.text = @"";
+        [_bgNumber setHidden:TRUE];
+    }
 }
 
 

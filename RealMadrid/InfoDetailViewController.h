@@ -19,5 +19,8 @@
 @property (retain, nonatomic) NSString *weightMember;
 @property (retain, nonatomic) NSString *heightMember;
 @property (retain, nonatomic) NSString *introMember;
+@property (retain, nonatomic) UIImage *bgNumberPlayer;
+@property (retain, nonatomic) NSString *number;
+@property bool flag;
 
 @end

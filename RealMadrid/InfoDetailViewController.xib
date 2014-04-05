@@ -6,9 +6,11 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="InfoDetailViewController">
             <connections>
+                <outlet property="bgNumber" destination="byn-7x-p1n" id="Uj9-j3-YUD"/>
                 <outlet property="dateofbirth" destination="uXc-Kg-8m9" id="HIO-fE-VR7"/>
                 <outlet property="height" destination="reG-nW-AYd" id="pkg-Zl-WKS"/>
                 <outlet property="intro" destination="ZRl-4A-4cc" id="Yxf-dz-ldY"/>
+                <outlet property="numberLabel" destination="dXH-dI-XhV" id="uMW-C8-7BB"/>
                 <outlet property="placeofbirth" destination="orF-4S-dyA" id="Z1F-Ol-D3a"/>
                 <outlet property="playerImage" destination="nJW-E5-d11" id="5OT-M5-DYe"/>
                 <outlet property="playerNameLabel" destination="yKP-ka-4MW" id="A6c-HZ-XS3"/>
@@ -102,10 +104,24 @@
                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                     <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                 </textView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="number" translatesAutoresizingMaskIntoConstraints="NO" id="byn-7x-p1n">
+                    <rect key="frame" x="0.0" y="233" width="70" height="70"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="20" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="dXH-dI-XhV">
+                    <rect key="frame" x="12" y="246" width="49" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="45"/>
+                    <color key="textColor" red="0.97189198369565222" green="0.13192320871187577" blue="0.20646192274267802" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
             </subviews>
             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
             <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
             <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
         </view>
     </objects>
+    <resources>
+        <image name="number" width="80" height="80"/>
+    </resources>
 </document>

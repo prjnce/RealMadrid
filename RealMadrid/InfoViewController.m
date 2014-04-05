@@ -138,6 +138,12 @@
         _infoDetail.name = [coaches objectForKey:@"name"];
         _infoDetail.position =  [coaches objectForKey:@"position"];
         _infoDetail.image = [UIImage imageNamed:[coaches objectForKey:@"image"]];
+        _infoDetail.placeOfBirth = [coaches objectForKey:@"placeofbirth"];
+        _infoDetail.yearOfBirth = [coaches objectForKey:@"yearofbirth"];
+        _infoDetail.weightMember = [coaches objectForKey:@"weight"];
+        _infoDetail.heightMember = [coaches objectForKey:@"height"];
+        _infoDetail.introMember = [coaches objectForKey:@"intro"];
+        _infoDetail.flag = FALSE;
     }else if(indexPath.section == 1){
         NSDictionary *player = _listPlayer[1][indexPath.row];
         _infoDetail.name = [player objectForKey:@"name"];
@@ -148,6 +154,7 @@
          _infoDetail.weightMember = [player objectForKey:@"weight"];
          _infoDetail.heightMember = [player objectForKey:@"height"];
          _infoDetail.introMember = [player objectForKey:@"intro"];
+        _infoDetail.flag = TRUE;
     }
     
     [self.navigationController pushViewController:_infoDetail animated:YES];
